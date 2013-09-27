@@ -1,0 +1,1214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tiga v1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-03-26 09:27+0700\n"
+"Last-Translator: Sandro Juergensen <sandrojuergensen@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ tiga
+#: 404.php:27
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Entschuldigung, diese Seite konnte nicht gefunden werden."
+
+# @ tiga
+#: 404.php:31
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Es sieht so aus als ob die angeforderte Seite nicht gefunden werden konnte. "
+"Sie sollten einen der unten aufgeführten Links benutzen, oder die "
+"Suchfunktion verwenden."
+
+# @ tiga
+#: 404.php:38
+msgid "Most Used Categories"
+msgstr "Am häufigsten verwendete Kategorien"
+
+# @ tiga
+#. translators: %1$s: smilie
+#: 404.php:46
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Vielleicht lässt sich etwas im Archiv finden? %1$s"
+
+# @ tiga
+#: admin/options-framework.php:171
+msgid "Tiga Theme Options"
+msgstr "Tiga Theme Optionen"
+
+# @ tiga
+#: admin/options-framework.php:203
+msgid "Clear"
+msgstr "Bereinigen"
+
+# @ tiga
+#: admin/options-framework.php:204
+msgid "Default"
+msgstr "Originaleinstellung"
+
+# @ tiga
+#: admin/options-framework.php:205
+msgid "Select Color"
+msgstr "Farbe auswählen"
+
+# @ tiga
+#: admin/options-framework.php:250
+msgid "Save Options"
+msgstr "Einstellungen speichern"
+
+# @ tiga
+#: admin/options-framework.php:251
+msgid "Restore Defaults"
+msgstr "Zurücksetzen"
+
+# @ tiga
+#: admin/options-framework.php:251
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+"Klicken Sie OK um die Einstellungen zurück zu setzen. Alle gemachten "
+"Änderungen gehen verloren!"
+
+# @ tiga
+#: admin/options-framework.php:283
+msgid "Default options restored."
+msgstr "Originaleinstellungen wurden wieder hergestellt."
+
+# @ tiga
+#: admin/options-framework.php:337
+msgid "Options saved."
+msgstr "Einstellungen wurden gespeichert."
+
+# @ tiga
+#: admin/options-framework.php:387
+msgid "Theme Options"
+msgstr "Einstellungen für das Theme"
+
+# @ tiga
+#: admin/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr "Keine Datei ausgewählt"
+
+# @ tiga
+#: admin/options-media-uploader.php:53 admin/options-media-uploader.php:100
+msgid "Upload"
+msgstr "Hochladen"
+
+# @ tiga
+#: admin/options-media-uploader.php:55 admin/options-media-uploader.php:101
+msgid "Remove"
+msgstr "Entfernen"
+
+# @ tiga
+#: admin/options-media-uploader.php:79
+msgid "View File"
+msgstr "Datei ansehen"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:232
+msgid "No Repeat"
+msgstr "Keine Wiederholung"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr "Horizontal Wiederholen"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr "Vertikal Wiederholen"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:235
+msgid "Repeat All"
+msgstr "Alles Wiederholen"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:248
+msgid "Top Left"
+msgstr "Oben Links"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:249
+msgid "Top Center"
+msgstr "Oben Zentriert"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:250
+msgid "Top Right"
+msgstr "Oben Rechts"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:251
+msgid "Middle Left"
+msgstr "Mitte Links"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:252
+msgid "Middle Center"
+msgstr "Mittig Zentriert"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:253
+msgid "Middle Right"
+msgstr "Mitte Rechts"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr "Unten Links"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr "Unten Zentriert"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr "Unten Rechts"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr "Normales Scrollen"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr "Am Platz fixiert"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:344
+msgid "Normal"
+msgstr "Normal"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:345
+msgid "Italic"
+msgstr "schräg"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:346
+msgid "Bold"
+msgstr "Fett gedruckt"
+
+# @ options_framework_theme
+#: admin/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr "Fett gedruckt und schräg"
+
+# @ tiga
+#: admin/upgrade.php:31
+msgid "Theme Options Media"
+msgstr "Themeoptionen für Multimedia"
+
+# @ tiga
+#: archive.php:30
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Verzeichniss der Kategorien: %s"
+
+# @ tiga
+#: archive.php:33
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Verzeichnis der Tags: %s"
+
+# @ tiga
+#: archive.php:40 author.php:27
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Verzeichnis der Autoren: %s"
+
+# @ tiga
+#: archive.php:48
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Übersicht per Tag: %s"
+
+# @ tiga
+#: archive.php:51
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Übersicht per Monat: %s"
+
+# @ tiga
+#: archive.php:54
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Übersicht per Jahr: %s"
+
+# @ tiga
+#: archive.php:57
+msgid "Archives"
+msgstr "Archiv"
+
+# @ tiga
+#: author.php:42 includes/templates.php:131
+#, php-format
+msgid "About %s"
+msgstr "Über %s"
+
+# @ tiga
+#: comments.php:19
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Dieser Beitrag ist mit einem Passwort geschützt. Bitte geben Sie das "
+"Passwort an, um die Kommentare einzusehen."
+
+# @ tiga
+#: comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Gedanke zu &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Gedanken zu &ldquo;%2$s&rdquo;"
+
+# @ tiga
+#: comments.php:49
+msgid "Comments are closed."
+msgstr "Kommentare sind nicht erlaubt."
+
+# @ tiga
+#: comments.php:54
+msgid "Leave a Comment"
+msgstr "Hinterlassen Sie einen Kommentar"
+
+# @ tiga
+#: comments.php:55
+msgid "Send your comment"
+msgstr "Kommentar abschicken"
+
+# @ tiga
+#: content-featured.php:19
+msgid "Featured Posts"
+msgstr "Vorgeschlagene Beiträge"
+
+# @ tiga
+#: content-featured.php:48 content-single.php:18 content.php:20
+#: page-templates/archives.php:26
+#, php-format
+msgid "Permalink to %s"
+msgstr "Dauerhafte Verlinkung zu %s"
+
+# @ tiga
+#: content-page.php:21 content-single.php:31 image.php:93
+msgid "Pages:"
+msgstr "Seiten:"
+
+# @ tiga
+#: content-page.php:22 content-single.php:54 image.php:41 image.php:107
+#: includes/templates.php:159 includes/templates.php:187
+#: page-templates/home.php:58
+msgid "Edit"
+msgstr "Bearbeiten"
+
+# @ tiga
+#: content-single.php:48
+#, php-format
+msgid "<span class=\"%1$s\">%2$s</span>"
+msgstr "<span class=\"%1$s\">%2$s</span>"
+
+# @ tiga
+#: content-single.php:51
+#, php-format
+msgid "<span class=\"%1$s category\">%2$s</span>"
+msgstr "<span class=\"%1$s Kategorien\">%2$s</span>"
+
+# @ tiga
+#: footer.php:37
+#, php-format
+msgid ""
+"Powered by <a href=\"http://wordpress.org/\" title=\"%1$s\" rel=\"generator"
+"\">%2$s</a> &middot; Theme by <a href=\"http://satrya.me/\" title=\"%3$s\" "
+"rel=\"designer\">%4$s</a>"
+msgstr ""
+"Mit Hilfe von <a href=\"http://wordpress.org/\" title=\"%1$s\" rel="
+"\"generator\">%2$s</a> &middot; Theme von <a href=\"http://satrya.me/\" "
+"title=\"%3$s\" rel=\"designer\">%4$s</a>"
+
+# @ tiga
+#: functions.php:91
+msgid "Primary Navigation"
+msgstr "Hauptnavigation"
+
+# @ tiga
+#: functions.php:92
+msgid "Secondary Navigation"
+msgstr "Zweitnavigation"
+
+# @ tiga
+#: functions.php:190
+msgid "Small Thumbnail"
+msgstr "Kleines Vorschaubild"
+
+# @ tiga
+#: functions.php:191
+msgid "Medium Thumbnail"
+msgstr "Mittleres Vorschaubild"
+
+# @ tiga
+#: functions.php:192
+msgid "Featured"
+msgstr "Vorgeschlagen"
+
+# @ tiga
+#: functions.php:193
+msgid "Medium Featured"
+msgstr "Zusätzlich vorgeschlagen"
+
+# @ tiga
+#: functions.php:194
+msgid "Home Slides"
+msgstr "Home Slides"
+
+# @ tiga
+#: functions.php:271
+#, php-format
+msgid "Page %s"
+msgstr "Seiten %s"
+
+# @ tiga
+#: functions.php:282
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+# @ tiga
+#: functions.php:453
+msgid "Primary"
+msgstr "Haupt"
+
+# @ tiga
+#: functions.php:454
+msgid "Primary sidebar, appears on all pages."
+msgstr "Hauptseitenleiste, erscheint auf allen Seiten."
+
+# @ tiga
+#: functions.php:463
+msgid "Subsidiary"
+msgstr "Ergänzend"
+
+# @ tiga
+#: functions.php:464
+msgid "Subsidiary sidebar, appears on the footer side of your site."
+msgstr "Ergänzende Seitenleiste, erscheint in der Fußleiste der Webseite."
+
+# @ tiga
+#: functions.php:473
+msgid "Above Single Post Content"
+msgstr "Über dem Inhalt eines einzelnen Beitrages"
+
+# @ tiga
+#: functions.php:474
+msgid "This sidebar appears on the single post, above the content."
+msgstr ""
+"Diese Seitenleiste erscheint auf Seiten von einzelnen Beiträgen, oberhalb "
+"des Inhaltes."
+
+# @ tiga
+#: functions.php:483
+msgid "Below Single Post Content"
+msgstr "Unterhalb des Inhaltes von einzelnen Beiträgen"
+
+# @ tiga
+#: functions.php:484
+msgid "This sidebar appears on the single post, below the content."
+msgstr ""
+"Diese Seitenleiste erscheint auf Seiten von einzelnen Beiträgen, unterhalb "
+"des Inhaltes."
+
+# @ tiga
+#: functions.php:493
+msgid "Custom Home Page"
+msgstr "Selbst gestaltete Hauptseite"
+
+# @ tiga
+#: functions.php:494
+msgid "This sidebar appears on custom home page template."
+msgstr "Diese Seitenleiste erscheint auf der selbst gestalteten Hauptseite."
+
+# @ tiga
+#: image.php:31
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s"
+"\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"Erstellt <span class=\"entry-date\"><time class=\"entry-date updated\" "
+"datetime=\"%1$s\" pubdate>%2$s</time></span> am <a href=\"%3$s\" title="
+"\"Verknüpfung zum Bild in Originalgröße\">%4$s &times; %5$s</a> in <a href="
+"\"%6$s\" title=\"Zurück zu %7$s\" rel=\"gallery\">%7$s</a>"
+
+# @ tiga
+#: image.php:45
+msgid "&larr; Previous Image"
+msgstr "&larr; vohergehendes Bild"
+
+# @ tiga
+#: image.php:46
+msgid "Next Image &rarr;"
+msgstr "nächstes Bild &rarr;"
+
+# @ tiga
+#: image.php:99
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"einen Kommentar "
+"hinterlassent\">einen Kommentar hinterlassen</a> oder hinterlassen Sie einen "
+"Verweis für das Trackback: <a class=\"trackback-link\" href=\"%s\" title="
+"\"Verweis auf den Link für das Trackback\" rel=\"trackback\">Trackback URL</"
+"a>."
+
+# @ tiga
+#: image.php:101
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"Kommentare sind nicht erlaubt, aber Sie können einen Verweis für dass "
+"Trackback hinterlassen: <a class=\"trackback-link\" href=\"%s\" title="
+"\"Trackback URL für Ihren Beitrag\" rel=\"trackback\">Trackback URL</a>."
+
+# @ tiga
+#: image.php:103
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Trackbacks sind nicht erlaubt, aber Sie können einen <a class=\"comment-link"
+"\" href=\"#respond\" title=\"Kommentar hinterlassen\">Kommentar "
+"hinterlassen</a>."
+
+# @ tiga
+#: image.php:105
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Sowohl Kommentare als auch Trackbacks sind derzeit nicht erlaubt."
+
+# @ tiga
+#: includes/metabox.php:14 includes/metabox.php:15
+msgid "Tiga social share"
+msgstr "Tiga Social Share"
+
+# @ tiga
+#: includes/metabox.php:25
+msgid "Disable social share button on this post?"
+msgstr "Verweise zu den Social Networks für diesen Beitrag nicht anzeigen?"
+
+# @ tiga
+#: includes/options-sidebar.php:19
+msgid "Support"
+msgstr "Support"
+
+# @ tiga
+#: includes/options-sidebar.php:24
+msgid "Components"
+msgstr "Bestandteile"
+
+# @ tiga
+#: includes/options-sidebar.php:27
+msgid "Buddypress"
+msgstr "Buddypress"
+
+# @ tiga
+#: includes/options-sidebar.php:28
+msgid "A child theme for buddypress compatibility."
+msgstr "Ein zusätzliches Theme für die Kompatibilität zu Buddypress."
+
+# @ tiga
+#: includes/options-sidebar.php:29
+msgid "Sample child theme"
+msgstr "Vorlage für ein zusätzliches Theme"
+
+# @ tiga
+#: includes/options-sidebar.php:30
+msgid "Sample child theme for Tiga."
+msgstr "Zusätzliches Theme für Tiga."
+
+# @ tiga
+#: includes/options-sidebar.php:31
+msgid "Sass files"
+msgstr "SASS Dateien"
+
+# @ tiga
+#: includes/options-sidebar.php:32
+msgid "I'm building Tiga with SASS & Compass, download it if you need."
+msgstr ""
+"Zum erstellen von Tiga nutze ich SASS & COMPASS. Sollten Sie es benötigen "
+"können Sie es herunterladen."
+
+# @ tiga
+#: includes/options.php:42
+msgid "Two"
+msgstr "Zwei"
+
+# @ tiga
+#: includes/options.php:43
+msgid "Three"
+msgstr "Drei"
+
+# @ tiga
+#: includes/options.php:44
+msgid "Four"
+msgstr "Vier"
+
+# @ tiga
+#: includes/options.php:45
+msgid "Five"
+msgstr "Fünf"
+
+# @ tiga
+#: includes/options.php:46
+msgid "Six"
+msgstr "Sechs"
+
+# @ tiga
+#: includes/options.php:47
+msgid "Seven"
+msgstr "Sieben"
+
+# @ tiga
+#: includes/options.php:48
+msgid "Eight"
+msgstr "Acht"
+
+# @ tiga
+#: includes/options.php:49
+msgid "Nine"
+msgstr "Neun"
+
+# @ tiga
+#: includes/options.php:50
+msgid "Ten"
+msgstr "Zehn"
+
+# @ tiga
+#: includes/options.php:54
+msgid "Enable"
+msgstr "Aktivieren"
+
+# @ tiga
+#: includes/options.php:55
+msgid "Disable"
+msgstr "Deaktivieren"
+
+# @ tiga
+#: includes/options.php:59
+msgid "Single post"
+msgstr "Einzelner Beitrag"
+
+# @ tiga
+#: includes/options.php:60
+msgid "Page"
+msgstr "Seite"
+
+# @ tiga
+#: includes/options.php:61
+msgid "Both"
+msgstr "Beides"
+
+# @ tiga
+#: includes/options.php:62
+msgid "None"
+msgstr "Nichts"
+
+# @ tiga
+#: includes/options.php:71
+msgid "General"
+msgstr "Allgemein"
+
+# @ tiga
+#: includes/options.php:76
+msgid "Custom Logo"
+msgstr "Eigenes Bild"
+
+# @ tiga
+#: includes/options.php:77
+msgid ""
+"Upload a logo for your website, or specify the image address of your online "
+"logo. (http://example.com/logo.png)"
+msgstr ""
+"Laden Sie ein eigenes Bild für Ihre Webseite herauf, oder geben Sie die "
+"Webadresse für Ihr eigenes Bild an. (http://beispiel.com/bild.png)"
+
+# @ tiga
+#: includes/options.php:83
+msgid "Custom Favicon"
+msgstr "Eigenes Favicon"
+
+# @ tiga
+#: includes/options.php:84
+msgid ""
+"Upload a favicon for your website, or specify the image address of your "
+"online favicon. (http://example.com/favicon.png)"
+msgstr ""
+"Laden Sie Ihr eigenes Favicon herauf oder geben Sie die Webadresse für Ihr "
+"Favicon an. (http://beispiel.com/favicon.png)"
+
+# @ tiga
+#: includes/options.php:90
+msgid "Custom CSS"
+msgstr "Eigenes CSS"
+
+# @ tiga
+#: includes/options.php:91
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+"Fügen Sie Ihr eigenen CSS Code hinzu, indem Sie ihn hier hinein kopieren."
+
+# @ tiga
+#: includes/options.php:98
+msgid "Header Code"
+msgstr "Code für die Kopfzeile"
+
+# @ tiga
+#: includes/options.php:99
+msgid ""
+"Add any custom script like the meta verification from various search engine. "
+"It will be inserted before the closing head tag of your theme"
+msgstr ""
+"Fügen Sie Ihr eigenes Skript, zum Beispiel für die Verifizierung für "
+"verschiedene Suchmaschinen, hinzu. Es wird vor dem Abschluss der Kopfzeile "
+"Ihrem Theme hinzu gefügt."
+
+# @ tiga
+#: includes/options.php:105
+msgid "Footer Code"
+msgstr "Code für die Fußzeile"
+
+# @ tiga
+#: includes/options.php:106
+msgid ""
+"Add your analytic code or you can add any custom script here. It will be "
+"inserted before the closing body tag of your theme"
+msgstr ""
+"Fügen Sie Ihr eigenes Skipt hinzu, zum Beispiel für Google Analytic. Dieses "
+"wird dann vor dem abschließenden Body Tag des Themes eingefügt."
+
+# @ tiga
+#: includes/options.php:112
+msgid "Iframe Blocker"
+msgstr "Iframe Blocker"
+
+# @ tiga
+#: includes/options.php:113
+msgid "Iframe blocker is for block iframe to your site such as google image."
+msgstr ""
+"Der Iframe Blocker dient dazu Iframes die Ihre Seite laden zu blockieren, "
+"zum Beispiel Google Image."
+
+# @ tiga
+#: includes/options.php:121
+msgid "Disable credit links"
+msgstr "Den Link für die Credits deaktivieren"
+
+# @ tiga
+#: includes/options.php:122
+msgid ""
+"Are you sure want to disable the credit link for WordPress and theme author?"
+msgstr ""
+"Sind Sie sich sicher dass Die den Link für die Credits für Wordpress und den "
+"Autor des Themes deaktivieren möchten?"
+
+# @ tiga
+#: includes/options.php:130
+msgid "Theme"
+msgstr "Theme"
+
+# @ tiga
+#: includes/options.php:135
+msgid "Global Layouts"
+msgstr "Allgemeines Aussehen"
+
+# @ tiga
+#: includes/options.php:136
+msgid "Left content, right content or one column"
+msgstr "Inhalt links, Inhalt rechts oder nur eine Spalte."
+
+# @ tiga
+#: includes/options.php:148
+msgid "Home Page Layouts"
+msgstr "Aussehen der Hauptpage"
+
+# @ tiga
+#: includes/options.php:149
+msgid "Two columns or one column"
+msgstr "Zwei Spalten oder eine Spalte"
+
+# @ tiga
+#: includes/options.php:160
+msgid "Background Pattern"
+msgstr "Muster für den Hintergrund"
+
+# @ tiga
+#: includes/options.php:161
+msgid "Available background pattern to customize your site"
+msgstr ""
+"Verfügbare Muster für den Hintergrund um damit Ihre Webseite anzupassen"
+
+# @ tiga
+#: includes/options.php:181
+msgid "Display social share button"
+msgstr "Knpfe für die Sozialen Netzwerke anzeigen"
+
+# @ tiga
+#: includes/options.php:182
+msgid "Display social share on single post and page"
+msgstr ""
+"Knöpfe für die Sozialen Netzwerke auf den Seiten und für einzelne Beiträge "
+"anzeigen"
+
+# @ tiga
+#: includes/options.php:190
+msgid "Display author box"
+msgstr "Anzeige der Box für den Autor"
+
+# @ tiga
+#: includes/options.php:191
+msgid "Check this option if you want display the author box on single posts"
+msgstr ""
+"Wählen Sie diese Option wenn das Feld für den Autor bei einzelnen Beiträgen "
+"anzeigen wollen"
+
+# @ tiga
+#: includes/options.php:199
+msgid "Typography"
+msgstr "Schriftarten"
+
+# @ tiga
+#: includes/options.php:204
+msgid "Disable custom typography"
+msgstr "Selbst gewählte Schriftarten deaktivieren"
+
+# @ tiga
+#: includes/options.php:205
+msgid "Disable custom typography and use theme defaults."
+msgstr ""
+"Selbst gewählte Schriftarten deaktivieren und Voreinstellungen des Themes "
+"verwenden."
+
+# @ tiga
+#: includes/options.php:212
+msgid "Content typography"
+msgstr "Schriftarten für den Inhalt"
+
+# @ tiga
+#: includes/options.php:213
+msgid "This font is used for content text."
+msgstr "Diese Schriftart wir für den Inhalt verwendet."
+
+# @ tiga
+#: includes/options.php:237
+msgid "Content heading typography"
+msgstr "Schriftarten für die Überschriften"
+
+# @ tiga
+#: includes/options.php:238
+msgid "Select the headline font (h1,h2,h3 etc)"
+msgstr ""
+"Wählen Sie die Schriftarten für die Überschriften aus (H1, H2, H3 ,usw)"
+
+# @ tiga
+#: includes/templates.php:29
+msgid "Post navigation"
+msgstr "Navigation für Beiträge"
+
+# @ tiga
+#: includes/templates.php:33
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+# @ tiga
+#: includes/templates.php:34
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+# @ tiga
+#: includes/templates.php:40
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ältere Beiträge"
+
+# @ tiga
+#: includes/templates.php:44
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Beiträge <span class=\"meta-nav\">&rarr;</span>"
+
+# @ tiga
+#: includes/templates.php:63
+#, php-format
+msgid ""
+"Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline"
+"\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+"Geschrieben am <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date updated\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class="
+"\"byline\"> von <span class=\"author vcard\"><a class=\"url fn n\" href="
+"\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+# @ tiga
+#: includes/templates.php:69
+#, php-format
+msgid "View all posts by %s"
+msgstr "Alle Beiträge von %s ansehen"
+
+# @ tiga
+#: includes/templates.php:73
+msgid "Leave a comment"
+msgstr "Hinterlassen Sie einen Kommentar"
+
+# @ tiga
+#: includes/templates.php:73
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+# @ tiga
+#: includes/templates.php:73
+msgid "% Comments"
+msgstr "% Kommentare"
+
+# @ tiga
+#: includes/templates.php:135
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Alle Beiträge von %s ansehen <span class=\"meta-nav\">&rarr;</span>"
+
+# @ tiga
+#: includes/templates.php:159
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ tiga
+#. translators: 1: comment author, 2: date and time
+#: includes/templates.php:176
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "%1$s am %2$s <span class=\"says\">sagte:</span>"
+
+# @ tiga
+#. translators: 1: date, 2: time
+#: includes/templates.php:182
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s über %2$s"
+
+# @ tiga
+#: includes/templates.php:191
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Überprüfung."
+
+# @ tiga
+#: includes/templates.php:199
+msgid "Reply <span>&darr;</span>"
+msgstr "Antworten <span>&darr;</span>"
+
+# @ tiga
+#: includes/templates.php:219
+msgid "Comment navigation"
+msgstr "Kommentar Navigation"
+
+# @ tiga
+#: includes/templates.php:220
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+# @ tiga
+#: includes/templates.php:221
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+# @ tiga
+#: includes/templates.php:238
+msgid "Share This:"
+msgstr "Dies teilen:"
+
+# @ tiga
+#: includes/widget-fbfans.php:20
+msgid "A custom widget to display the Facebook fans box."
+msgstr "Ein eigenes Widget zum Anzeigen der Box für Facebook Fans"
+
+# @ tiga
+#: includes/widget-fbfans.php:29
+msgid "&raquo; Tiga FB Fans"
+msgstr "&raquo; Tiga FB Fans"
+
+# @ tiga
+#: includes/widget-fbfans.php:102 includes/widget-social.php:162
+#: includes/widget-subscribe.php:86 includes/widget-twitter.php:135
+msgid "Title:"
+msgstr "Überschrift:"
+
+# @ tiga
+#: includes/widget-fbfans.php:106
+msgid "Fans URL:"
+msgstr "Fans URL:"
+
+# @ foto
+#: includes/widget-fbfans.php:110
+msgid "Show Faces"
+msgstr "Gesichter Zeigen"
+
+# @ foto
+#: includes/widget-fbfans.php:114
+msgid "Show Header"
+msgstr "Den Kopf anzeigen"
+
+# @ tiga
+#: includes/widget-fbfans.php:118
+msgid "Width:"
+msgstr "Breite:"
+
+# @ tiga
+#: includes/widget-social.php:20
+msgid "A custom widget to display the social icons."
+msgstr "Eine eigene Box zum Anzeigen der Icons für die Sozialen Netzwerke."
+
+# @ tiga
+#: includes/widget-social.php:29
+msgid "&raquo; Tiga Social Network"
+msgstr "&raquo; Tiga Soziales Netzwerk"
+
+# @ tiga
+#: includes/widget-social.php:166
+msgid "Email:"
+msgstr "E-Mail:"
+
+# @ tiga
+#: includes/widget-social.php:170 includes/widget-twitter.php:139
+msgid "Twitter Username:"
+msgstr "Twitter Benutzername:"
+
+# @ tiga
+#: includes/widget-social.php:174
+msgid "Facebook Username:"
+msgstr "Facebook Benutzername:"
+
+# @ tiga
+#: includes/widget-social.php:178
+msgid "Google Plus Username:"
+msgstr "Google Plus Benutzername:"
+
+# @ tiga
+#: includes/widget-social.php:182
+msgid "Youtube Username:"
+msgstr "Youtube Benutzername:"
+
+# @ tiga
+#: includes/widget-social.php:186
+msgid "Flickr Username:"
+msgstr "Flickr Benutzername:"
+
+# @ tiga
+#: includes/widget-social.php:190
+msgid "Linkedin Username:"
+msgstr "Linkedin Benutzername:"
+
+# @ tiga
+#: includes/widget-social.php:194
+msgid "Pinterest Username:"
+msgstr "Pinterest Benutzername:"
+
+# @ tiga
+#: includes/widget-social.php:198
+msgid "Dribbble Username:"
+msgstr "Dribble Benutzername:"
+
+# @ tiga
+#: includes/widget-social.php:202
+msgid "Github Username:"
+msgstr "Github Benutzername:"
+
+# @ tiga
+#: includes/widget-social.php:206
+msgid "Last FM Username:"
+msgstr "Last FM Benutzername:"
+
+# @ tiga
+#: includes/widget-social.php:210
+msgid "Vimeo Username:"
+msgstr "Vimeo Benutzername:"
+
+# @ tiga
+#: includes/widget-social.php:214
+msgid "Tumblr Username:"
+msgstr "Tumblr Benutzername:"
+
+# @ tiga
+#: includes/widget-social.php:218
+msgid "Instagram Username:"
+msgstr "Instagram Benutzername:"
+
+# @ tiga
+#: includes/widget-subscribe.php:20
+msgid "A custom widget to display the feedburner subscription widget."
+msgstr "Ein eigenes Widget zum Anzeigen des Feedburner Abonnements."
+
+# @ tiga
+#: includes/widget-subscribe.php:29
+msgid "&raquo; Tiga Subscribe"
+msgstr "&raquo; Tiga abonnieren"
+
+# @ tiga
+#: includes/widget-subscribe.php:49
+msgid "Email address &hellip;"
+msgstr "E-mailadresse &hellip;"
+
+# @ tiga
+#: includes/widget-subscribe.php:52
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+# @ tiga
+#: includes/widget-subscribe.php:90
+msgid "Feedburner ID(http://feeds.feedburner.com/<b>satrya</b>):"
+msgstr "Feedburner ID(http://feeds.feedburner.com/<b>satrya</b>):"
+
+# @ tiga
+#: includes/widget-twitter.php:24
+msgid "A custom widget to display your recent tweets."
+msgstr "Ein eigenes Widget um Ihre letzten Tweets anzuzeigen."
+
+# @ tiga
+#: includes/widget-twitter.php:33
+msgid "&raquo; Tiga Twitter"
+msgstr "&raquo; Tiga Twitter"
+
+# @ tiga
+#: includes/widget-twitter.php:42
+msgid "Recent Tweets"
+msgstr "Letzte Tweets"
+
+# @ tiga
+#: includes/widget-twitter.php:143
+msgid "Number of Tweets to Retrieve:"
+msgstr "Anzahl der Tweets die angezeigt werden sollen:"
+
+# @ tiga
+#: includes/widget-twitter.php:147
+msgid "Show profile picture"
+msgstr "Profilbild anzeigen"
+
+# @ tiga
+#: includes/widget-twitter.php:151
+msgid "Show user name"
+msgstr "Benutzernamen anzeigen"
+
+# @ tiga
+#: includes/widget-twitter.php:155
+msgid "Show full name"
+msgstr "Vollenständigen Namen anzeigen"
+
+# @ tiga
+#: includes/widget-twitter.php:159
+msgid "Show action button (reply, retweet and favorites)"
+msgstr "Schaltfläschen für aktionen anzeigen (Antworten, Favoriten, Twittern)"
+
+# @ tiga
+#: includes/widget-twitter.php:163
+msgid "Show follow button"
+msgstr "Den \\\"Folgen\\\"-Knopf anzeigen"
+
+# @ tiga
+#: menu-primary.php:16
+msgid "Menu"
+msgstr "Menü"
+
+# @ tiga
+#: menu-primary.php:17
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+# @ tiga
+#: no-results.php:18
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+# @ tiga
+#: no-results.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit den ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Beginnen Sie "
+"hier</a>."
+
+# @ tiga
+#: no-results.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Entschuldigung, aber die Suche hat nichts ergeben. Bitte versuchen Sie es "
+"mit einem anderen Suchbegriff."
+
+# @ tiga
+#: no-results.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Es sieht so als ob wir dass gewünschte nicht finden konnten. Vielleicht kann "
+"die Suchfunktionen helfen."
+
+# @ tiga
+#: page-templates/archives.php:35
+msgid "By Category"
+msgstr "per Kategorie"
+
+# @ tiga
+#: page-templates/archives.php:38
+msgid "By Monthly"
+msgstr "per Monat"
+
+# @ tiga
+#: page-templates/archives.php:41
+msgid "By Yearly"
+msgstr "per Jahr"
+
+# @ tiga
+#: page-templates/archives.php:46
+msgid "Latest Posts"
+msgstr "Letzte Beiträge"
+
+# @ tiga
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+# @ tiga
+#: searchform.php:15 searchform.php:17
+msgid "Search"
+msgstr "Suche"
+
+# @ tiga
+#: searchform.php:16
+msgid "Search &hellip;"
+msgstr "Suche &hellip;"

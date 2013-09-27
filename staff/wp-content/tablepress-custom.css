@@ -1,0 +1,42 @@
+.tablepress-id-1 tbody td {
+	font-family: Verdana;
+	text-align: center;
+}
+
+.tablepress-id-1,
+.tablepress-id-1 tr,
+.tablepress-id-1 tbody td,
+.tablepress-id-1 thead th,
+.tablepress-id-1 tfoot th {
+	border: none !important;
+}
+
+.tablepress-id-1 .row-2,
+.tablepress-id-1 .row-5,
+.tablepress-id-1 .row-8,
+.tablepress-id-1 .row-11,
+.tablepress-id-1 .row-14,
+.tablepress-id-1 .row-17,
+.tablepress-id-1 .row-20,
+.tablepress-id-1 .row-23,
+.tablepress-id-1 .row-26,
+.tablepress-id-1 .row-29,
+.tablepress-id-1 .row-32 {
+	font-size: 14px;
+	color: #000000;
+}
+
+.tablepress-id-1 .row-3,
+.tablepress-id-1 .row-6,
+.tablepress-id-1 .row-9,
+.tablepress-id-1 .row-12,
+.tablepress-id-1 .row-15,
+.tablepress-id-1 .row-18,
+.tablepress-id-1 .row-21,
+.tablepress-id-1 .row-24,
+.tablepress-id-1 .row-27,
+.tablepress-id-1 .row-30,
+.tablepress-id-1 .row-33 {
+	font-size: 12px;
+	color: #858585;
+}

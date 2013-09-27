@@ -1,0 +1,1002 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tiga 1.3\n"
+"POT-Creation-Date: 2013-06-06 16:18+0100\n"
+"PO-Revision-Date: 2013-06-06 16:18+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;esc_attr__;esc_attr_e;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:27
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Spiacente, ma la pagina richiesta non esiste."
+
+#: ../404.php:29
+msgid ""
+"We have already sent a team of qualified and highly trained monkeys to solve "
+"the problem."
+msgstr ""
+"Abbiamo già provveduto ad inviare una squadra di scimmie altamente "
+"addestrate e qualificate per risolvere il problema."
+
+#: ../404.php:34
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Sembra impossibile trovare quello che stavi cercando. Questo &egrave; "
+"leggermente imbarazzante, non &egrave; vero? Forse una ricerca meno "
+"specifica potrebbe aiutarti."
+
+#: ../404.php:41
+msgid "Most Used Categories"
+msgstr "Categorie Comunemente Utilizzate"
+
+#: ../404.php:49
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prova a guardare negli archivi mensili. %1$s"
+
+#: ../archive.php:30
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Archivio Categoria: %s"
+
+#: ../archive.php:33
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Archivio Metadati: %s"
+
+#: ../archive.php:40 ../author.php:27
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archivio Autore: %s"
+
+#: ../archive.php:48
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archivio Giornaliero: %s"
+
+#: ../archive.php:51
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archivio Mensile: %s"
+
+#: ../archive.php:54
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archivio Annuale: %s"
+
+#: ../archive.php:57
+msgid "Archives"
+msgstr "Archivi"
+
+#: ../author.php:42 ../includes/templates.php:131
+#, php-format
+msgid "About %s"
+msgstr "A proposito di %s"
+
+#: ../comments.php:19
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Questo post è protetto da password. Inserire la password per visualizzare "
+"gli eventuali commenti."
+
+#: ../comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensiero su &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensieri su &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:49
+msgid "Comments are closed."
+msgstr "I commenti per questo articoli sono chiusi."
+
+#: ../comments.php:54
+msgid "Leave a Comment"
+msgstr "Lascia un commento"
+
+#: ../comments.php:55
+msgid "Send your comment"
+msgstr "Invia il tuo commento"
+
+#: ../content-featured.php:19
+msgid "Featured Posts"
+msgstr "Articolo in primo piano"
+
+#: ../content-featured.php:48 ../content-single.php:18 ../content.php:20
+#: ../page-templates/archives.php:26
+#, php-format
+msgid "Permalink to %s"
+msgstr "Riferimento Permanente a %s"
+
+#: ../content-page.php:21 ../content-single.php:31 ../image.php:93
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: ../content-page.php:22 ../content-single.php:54 ../image.php:41
+#: ../image.php:107 ../includes/templates.php:159
+#: ../includes/templates.php:187 ../page-templates/home.php:58
+msgid "Edit"
+msgstr "Modifica"
+
+#: ../content-single.php:48
+#, php-format
+msgid "<span class=\"%1$s\">%2$s</span>"
+msgstr "<span class=\"%1$s\">%2$s</span>"
+
+#: ../content-single.php:51
+#, php-format
+msgid "<span class=\"%1$s category\">%2$s</span>"
+msgstr "<span class=\"%1$s categoria\">%2$s</span>"
+
+#: ../footer.php:37
+#, php-format
+msgid ""
+"Powered by <a href=\"http://wordpress.org/\" title=\"%1$s\" rel=\"generator"
+"\">%2$s</a> &middot; Theme by <a href=\"http://satrya.me/\" title=\"%3$s\" "
+"rel=\"designer\">%4$s</a>"
+msgstr ""
+"Basato su <a href=\"http://wordpress.org/\" title=\"%1$s\" rel=\"generator\">"
+"%2$s</a> &middot; Tema di <a href=\"http://satrya.me/\" title=\"%3$s\" rel="
+"\"designer\">%4$s</a>"
+
+#: ../functions.php:91
+msgid "Primary Navigation"
+msgstr "Navigazione Primaria"
+
+#: ../functions.php:92
+msgid "Secondary Navigation"
+msgstr "Navigazione Secondaria"
+
+#: ../functions.php:190
+msgid "Small Thumbnail"
+msgstr "Anteprima Piccola"
+
+#: ../functions.php:191
+msgid "Medium Thumbnail"
+msgstr "Anteprima Media"
+
+#: ../functions.php:192
+msgid "Featured"
+msgstr "In evidenza"
+
+#: ../functions.php:193
+msgid "Medium Featured"
+msgstr "In media evidenza"
+
+#: ../functions.php:194
+msgid "Home Slides"
+msgstr "Presentazioni Prima Pagina"
+
+#: ../functions.php:271
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: ../functions.php:282
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continua la lettura <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../functions.php:450
+msgid "Primary"
+msgstr "Primario"
+
+#: ../functions.php:451
+msgid "Primary sidebar, appears on all pages."
+msgstr "Barra Laterale Primaria, appare in ogni pagina."
+
+#: ../functions.php:460
+msgid "Subsidiary"
+msgstr "Sussidiaria"
+
+#: ../functions.php:461
+msgid "Subsidiary sidebar, appears on the footer side of your site."
+msgstr ""
+"Barra Laterale Sussidiaria, appare a pi&egrave; di pagina del tuo sito."
+
+#: ../functions.php:470
+msgid "Above Single Post Content"
+msgstr "Prima del contenuto di ogni articolo"
+
+#: ../functions.php:471
+msgid "This sidebar appears on the single post, above the content."
+msgstr ""
+"Questa Barra Laterale appare nel singolo articolo, prima del contenuto."
+
+#: ../functions.php:480
+msgid "Below Single Post Content"
+msgstr "Dopo il contenuto di ogni articolo"
+
+#: ../functions.php:481
+msgid "This sidebar appears on the single post, below the content."
+msgstr "Questa Barra Laterale appare nel singolo articolo, dopo il contenuto."
+
+#: ../functions.php:490
+msgid "Custom Home Page"
+msgstr "Pagina Iniziale Personalizzata"
+
+#: ../functions.php:491
+msgid "This sidebar appears on custom home page template."
+msgstr "Questa Barra Laterale appare nel modello della pagina iniziale."
+
+#: ../image.php:31
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s"
+"\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"Pubblicata <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\" pubdate>%2$s</time></span> il <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s"
+"\" rel=\"gallery\">%7$s</a>"
+
+#: ../image.php:45
+msgid "&larr; Previous Image"
+msgstr "&larr; Immagine Precedente"
+
+#: ../image.php:46
+msgid "Next Image &rarr;"
+msgstr "Immagine Successiva &rarr;"
+
+#: ../image.php:99
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Invia "
+"un commento</a> o lascia un Riferimento/Risposta: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Indirizzo del Riferimento</a>."
+
+#: ../image.php:101
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"I Commenti sono chiusi, ma puoi lasciare un Riferimento ad un altro sito per "
+"questo articolo: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback "
+"URL for your post\" rel=\"trackback\">Indirizzo del Riferimento</a>."
+
+#: ../image.php:103
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"I Riferimenti a questo Articolo da altri Siti sono chiusi, ma tu puoi <a "
+"class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">lasciare "
+"un Commento</a>."
+
+#: ../image.php:105
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Sia i Commenti che i Riferimenti sono chiusi per questo articolo."
+
+#: ../menu-primary.php:16
+msgid "Menu"
+msgstr "Menu"
+
+#: ../menu-primary.php:17
+msgid "Skip to content"
+msgstr "Salta al contenuto"
+
+#: ../no-results.php:18
+msgid "Nothing Found"
+msgstr "La ricerca non ha prodotto risultati"
+
+#: ../no-results.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Pronto per pubblicare il tuo primo articolo? <a href=\"%1$s\">Inizia qui</a>."
+
+#: ../no-results.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Spiacente, nulla pare associarsi ai tuoi termini di ricerca. Prego riprova "
+"con altre parole chiave."
+
+#: ../no-results.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Sembra che non sia stato possibile trovare ci&ograve; che stavi cercando. "
+"Potrebbe esserti utile eseguire una ricerca."
+
+#: ../search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Risultati della ricerca per: %s"
+
+#: ../searchform.php:15 ../searchform.php:17
+msgid "Search"
+msgstr "Cerca..."
+
+#: ../searchform.php:16
+msgid "Search &hellip;"
+msgstr "Cerca &hellip;"
+
+#: ../admin/options-framework.php:171
+#, fuzzy
+msgid "Tiga Theme Options"
+msgstr "Opzioni Tema"
+
+#: ../admin/options-framework.php:203
+msgid "Clear"
+msgstr "Cancella"
+
+#: ../admin/options-framework.php:204
+msgid "Default"
+msgstr "Predefinito"
+
+#: ../admin/options-framework.php:205
+msgid "Select Color"
+msgstr "Seleziona Colore"
+
+#: ../admin/options-framework.php:250
+msgid "Save Options"
+msgstr "Salva Opzioni"
+
+#: ../admin/options-framework.php:251
+msgid "Restore Defaults"
+msgstr "Ripristina Valori Predefiniti"
+
+#: ../admin/options-framework.php:251
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Premi OK per resettare. ogni impostazione del tema verrà persa!"
+
+#: ../admin/options-framework.php:283
+msgid "Default options restored."
+msgstr "Opzioni predefinite ripristinate."
+
+#: ../admin/options-framework.php:337
+msgid "Options saved."
+msgstr "Opzioni salvate."
+
+#: ../admin/options-framework.php:387
+msgid "Theme Options"
+msgstr "Opzioni Tema"
+
+#: ../admin/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr "Nessun documento selezionato"
+
+#: ../admin/options-media-uploader.php:53
+#: ../admin/options-media-uploader.php:100
+msgid "Upload"
+msgstr "Carica"
+
+#: ../admin/options-media-uploader.php:55
+#: ../admin/options-media-uploader.php:101
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: ../admin/options-media-uploader.php:79
+msgid "View File"
+msgstr "Vedi Documento"
+
+#: ../admin/options-sanitize.php:232
+msgid "No Repeat"
+msgstr "Non Ripetere"
+
+#: ../admin/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr "Ripeti Orizzontalmente"
+
+#: ../admin/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr "Ripeti Verticalmente"
+
+#: ../admin/options-sanitize.php:235
+msgid "Repeat All"
+msgstr "Ripeti Tutto"
+
+#: ../admin/options-sanitize.php:248
+msgid "Top Left"
+msgstr "Sinistra Alto"
+
+#: ../admin/options-sanitize.php:249
+msgid "Top Center"
+msgstr "Centro Alto"
+
+#: ../admin/options-sanitize.php:250
+msgid "Top Right"
+msgstr "Destra Alto"
+
+#: ../admin/options-sanitize.php:251
+msgid "Middle Left"
+msgstr "In Mezzo a Sinistra"
+
+#: ../admin/options-sanitize.php:252
+msgid "Middle Center"
+msgstr "In Mezzo al Centro"
+
+#: ../admin/options-sanitize.php:253
+msgid "Middle Right"
+msgstr "In Mezzo a Destra"
+
+#: ../admin/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr "Sotto a Sinistra"
+
+#: ../admin/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr "Sotto al Centro"
+
+#: ../admin/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr "Sotto a Destra"
+
+#: ../admin/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr "Scorri Normalmente"
+
+#: ../admin/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr "Fisso in Posizione"
+
+#: ../admin/options-sanitize.php:344
+msgid "Normal"
+msgstr "Normale"
+
+#: ../admin/options-sanitize.php:345
+msgid "Italic"
+msgstr "Corsivo"
+
+#: ../admin/options-sanitize.php:346
+msgid "Bold"
+msgstr "Grassetto"
+
+#: ../admin/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr "Grassetto Corsivo"
+
+#: ../admin/upgrade.php:31
+msgid "Theme Options Media"
+msgstr "Opzioni Sorgenti Dati Tema"
+
+#: ../includes/metabox.php:14 ../includes/metabox.php:15
+msgid "Tiga social share"
+msgstr "Condivisione sociale Tiga"
+
+#: ../includes/metabox.php:25
+msgid "Disable social share button on this post?"
+msgstr ""
+"Disabilitare il pulsante della condivisione sociale in questo articolo?"
+
+#: ../includes/options-sidebar.php:19
+msgid "Support"
+msgstr "Supporto"
+
+#: ../includes/options-sidebar.php:24
+msgid "Components"
+msgstr "Componenti"
+
+#: ../includes/options-sidebar.php:27
+msgid "Buddypress"
+msgstr "Buddypress"
+
+#: ../includes/options-sidebar.php:28
+msgid "A child theme for buddypress compatibility."
+msgstr "Una tema figlio per compatibilità con Buddypress."
+
+#: ../includes/options-sidebar.php:29
+msgid "Sample child theme"
+msgstr "Esempio tema figlio"
+
+#: ../includes/options-sidebar.php:30
+msgid "Sample child theme for Tiga."
+msgstr "Esempio tema figlio per Tiga."
+
+#: ../includes/options-sidebar.php:31
+msgid "Sass files"
+msgstr "Documenti Sass"
+
+#: ../includes/options-sidebar.php:32
+msgid "I'm building Tiga with SASS & Compass, download it if you need."
+msgstr "Sto creando Tiga con SASS e Compass, prendili anche tu se ti servono."
+
+#: ../includes/options.php:42
+msgid "Two"
+msgstr "Due"
+
+#: ../includes/options.php:43
+msgid "Three"
+msgstr "Tre"
+
+#: ../includes/options.php:44
+msgid "Four"
+msgstr "Quattro"
+
+#: ../includes/options.php:45
+msgid "Five"
+msgstr "Cinque"
+
+#: ../includes/options.php:46
+msgid "Six"
+msgstr "Sei"
+
+#: ../includes/options.php:47
+msgid "Seven"
+msgstr "Sette"
+
+#: ../includes/options.php:48
+msgid "Eight"
+msgstr "Otto"
+
+#: ../includes/options.php:49
+msgid "Nine"
+msgstr "Nove"
+
+#: ../includes/options.php:50
+msgid "Ten"
+msgstr "Dieci"
+
+#: ../includes/options.php:54
+msgid "Enable"
+msgstr "Abilita"
+
+#: ../includes/options.php:55
+msgid "Disable"
+msgstr "Disabilita"
+
+#: ../includes/options.php:59
+msgid "Single post"
+msgstr "Articolo singolo"
+
+#: ../includes/options.php:60
+msgid "Page"
+msgstr "Pagina"
+
+#: ../includes/options.php:61
+msgid "Both"
+msgstr "Entrambe"
+
+#: ../includes/options.php:62
+msgid "None"
+msgstr "Nessuno"
+
+#: ../includes/options.php:71
+msgid "General"
+msgstr "Generale"
+
+#: ../includes/options.php:76
+msgid "Custom Logo"
+msgstr "Logo personalizzato"
+
+#: ../includes/options.php:77
+msgid ""
+"Upload a logo for your website, or specify the image address of your online "
+"logo. (http://example.com/logo.png)"
+msgstr ""
+"Carica un logo per il tuo sito web, o specifica l'indirizzo per immagine del "
+"tuo logo online. (http://esempio.it/logo.png)"
+
+#: ../includes/options.php:83
+msgid "Custom Favicon"
+msgstr "Favicon personalizzato"
+
+#: ../includes/options.php:84
+msgid ""
+"Upload a favicon for your website, or specify the image address of your "
+"online favicon. (http://example.com/favicon.png)"
+msgstr ""
+"Carica un favicon per il tuo sito web, o specifica l'indirizzo per immagine "
+"del tuo favicon online. (http://esempio.it/favicon.png)"
+
+#: ../includes/options.php:90
+msgid "Custom CSS"
+msgstr "Stile CSS personalizzato"
+
+#: ../includes/options.php:91
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+"Aggiungere rapidamente del codice CSS per il vostro tema personalizzato, "
+"aggiungendolo a questo blocco."
+
+#: ../includes/options.php:98
+msgid "Header Code"
+msgstr "Codice intestazione"
+
+#: ../includes/options.php:99
+msgid ""
+"Add any custom script like the meta verification from various search engine. "
+"It will be inserted before the closing head tag of your theme"
+msgstr ""
+"Aggiungere qualsiasi script personalizzato come la verifica meta da diversi "
+"tipi di motori di ricerca. Sarà inserito prima del tag di chiusura in testa "
+"al vostro tema"
+
+#: ../includes/options.php:105
+msgid "Footer Code"
+msgstr "Codice piè di pagina"
+
+#: ../includes/options.php:106
+msgid ""
+"Add your analytic code or you can add any custom script here. It will be "
+"inserted before the closing body tag of your theme"
+msgstr ""
+"Aggiungi qui il tuo codice analitico, è possibile aggiungere qualsiasi "
+"script personalizzato. Sarà inserito prima della fine della pagina."
+
+#: ../includes/options.php:112
+msgid "Iframe Blocker"
+msgstr "Blocca iframe"
+
+#: ../includes/options.php:113
+msgid "Iframe blocker is for block iframe to your site such as google image."
+msgstr ""
+"Il blocco iframe serve a bloccare l'inglobamento del tuo sito come in Google "
+"Immagini"
+
+#: ../includes/options.php:121
+msgid "Disable credit links"
+msgstr "Disabilita collegamento crediti"
+
+#: ../includes/options.php:122
+msgid ""
+"Are you sure want to disable the credit link for WordPress and theme author?"
+msgstr ""
+"Sei sicuro/a di disabilitare il collegamento dei crediti di WordPress e "
+"dell'autore del Tema?"
+
+#: ../includes/options.php:130
+msgid "Theme"
+msgstr "Tema"
+
+#: ../includes/options.php:135
+msgid "Global Layouts"
+msgstr "Disposizione Globale"
+
+#: ../includes/options.php:136
+msgid "Left content, right content or one column"
+msgstr "Contenuto a sinistra, contenuto a destra o una colonna"
+
+#: ../includes/options.php:148
+msgid "Home Page Layouts"
+msgstr "Disposizioni Pagina Principale"
+
+#: ../includes/options.php:149
+msgid "Two columns or one column"
+msgstr "Due colonne o una colonna"
+
+#: ../includes/options.php:160
+msgid "Background Pattern"
+msgstr "Motivi sfondo"
+
+#: ../includes/options.php:161
+msgid "Available background pattern to customize your site"
+msgstr "Motivi dello sfondo disponibili per personalizzare il tuo sito"
+
+#: ../includes/options.php:181
+msgid "Display social share button"
+msgstr "Mostra il pulsante della condivisione sociale"
+
+#: ../includes/options.php:182
+msgid "Display social share on single post and page"
+msgstr "Mostra la condivisione sociale nell'articolo singolo e nella pagina"
+
+#: ../includes/options.php:190
+msgid "Display author box"
+msgstr "Mostra il riquadro dell'autore"
+
+#: ../includes/options.php:191
+msgid "Check this option if you want display the author box on single posts"
+msgstr ""
+"Seleziona questa opzione se vuoi mostrare il riquadro dell'autore "
+"nell'articolo singolo"
+
+#: ../includes/options.php:199
+msgid "Typography"
+msgstr "Tipografia"
+
+#: ../includes/options.php:204
+msgid "Disable custom typography"
+msgstr "Disabilita personalizzazione tipografica"
+
+#: ../includes/options.php:205
+msgid "Disable custom typography and use theme defaults."
+msgstr ""
+"Disabilita la personalizzazione tipografica e usa i valori predefiniti del "
+"tema. "
+
+#: ../includes/options.php:212
+msgid "Content typography"
+msgstr "Contenuto tipografico"
+
+#: ../includes/options.php:213
+msgid "This font is used for content text."
+msgstr "Questo carattere è usato per il testo del contenuto."
+
+#: ../includes/options.php:237
+msgid "Content heading typography"
+msgstr "Contenuto tipografico dei titoli"
+
+#: ../includes/options.php:238
+msgid "Select the headline font (h1,h2,h3 etc)"
+msgstr "Scegli il carattere del titolo  (h1,h2,h3 ecc)"
+
+#: ../includes/templates.php:29
+msgid "Post navigation"
+msgstr "Navigazione Articoli"
+
+#: ../includes/templates.php:33
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../includes/templates.php:34
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: ../includes/templates.php:40
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Vecchi articoli"
+
+#: ../includes/templates.php:44
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nuovi articoli <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../includes/templates.php:63
+#, php-format
+msgid ""
+"Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline"
+"\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+"Pubblicato il <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline"
+"\"> da <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: ../includes/templates.php:69
+#, php-format
+msgid "View all posts by %s"
+msgstr "Vedi tutti gli articoli di %s"
+
+#: ../includes/templates.php:73
+msgid "Leave a comment"
+msgstr "Lascia un commento"
+
+#: ../includes/templates.php:73
+msgid "1 Comment"
+msgstr "1 Commento"
+
+#: ../includes/templates.php:73
+msgid "% Comments"
+msgstr "% Commenti"
+
+#: ../includes/templates.php:135
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Vedi tutti gli articoli di %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../includes/templates.php:159
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../includes/templates.php:176
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "%1$s il %2$s <span class=\"says\">scrive:</span>"
+
+#: ../includes/templates.php:182
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s in data %2$s"
+
+#: ../includes/templates.php:191
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#: ../includes/templates.php:199
+msgid "Reply <span>&darr;</span>"
+msgstr "Rispondi <span>&darr;</span>"
+
+#: ../includes/templates.php:219
+msgid "Comment navigation"
+msgstr "Navigazione Commenti"
+
+#: ../includes/templates.php:220
+msgid "&larr; Older Comments"
+msgstr "&larr; Vecchi Commenti"
+
+#: ../includes/templates.php:221
+msgid "Newer Comments &rarr;"
+msgstr "Nuovi Commenti &rarr;"
+
+#: ../includes/templates.php:238
+msgid "Share This:"
+msgstr "Condividilo:"
+
+#: ../includes/widget-fbfans.php:20
+msgid "A custom widget to display the Facebook fans box."
+msgstr "Un pannello utilità personalizzato per mostrare i fan di Facebook."
+
+#: ../includes/widget-fbfans.php:29
+msgid "&raquo; Tiga FB Fans"
+msgstr "&raquo; Tiga FB Fans"
+
+#: ../includes/widget-fbfans.php:102 ../includes/widget-social.php:162
+#: ../includes/widget-subscribe.php:86 ../includes/widget-twitter.php:135
+msgid "Title:"
+msgstr "Titolo:"
+
+#: ../includes/widget-fbfans.php:106
+msgid "Fans URL:"
+msgstr "Indirizzo Fans:"
+
+#: ../includes/widget-fbfans.php:110
+msgid "Show Faces"
+msgstr "Mostra Facciate"
+
+#: ../includes/widget-fbfans.php:114
+msgid "Show Header"
+msgstr "Mostra Intestazione"
+
+#: ../includes/widget-fbfans.php:118
+msgid "Width:"
+msgstr "Larghezza:"
+
+#: ../includes/widget-social.php:20
+msgid "A custom widget to display the social icons."
+msgstr "Un pannello utilità personalizzato per mostrare le icone sociali."
+
+#: ../includes/widget-social.php:29
+msgid "&raquo; Tiga Social Network"
+msgstr "&raquo; Tiga Reti Sociali"
+
+#: ../includes/widget-social.php:166
+msgid "Email:"
+msgstr "eMail:"
+
+#: ../includes/widget-social.php:170 ../includes/widget-twitter.php:139
+msgid "Twitter Username:"
+msgstr "Nome utente Twitter:"
+
+#: ../includes/widget-social.php:174
+msgid "Facebook Username:"
+msgstr "Nome utente Facebook:"
+
+#: ../includes/widget-social.php:178
+msgid "Google Plus Username:"
+msgstr "Nome utente Google Plus:"
+
+#: ../includes/widget-social.php:182
+msgid "Youtube Username:"
+msgstr "Nome utente Youtube:"
+
+#: ../includes/widget-social.php:186
+msgid "Flickr Username:"
+msgstr "Nome utente Flickr:"
+
+#: ../includes/widget-social.php:190
+msgid "Linkedin Username:"
+msgstr "Nome utente Linkedin:"
+
+#: ../includes/widget-social.php:194
+msgid "Pinterest Username:"
+msgstr "Nome utente Pinterest:"
+
+#: ../includes/widget-social.php:198
+msgid "Dribbble Username:"
+msgstr "Nome utente Dribbble:"
+
+#: ../includes/widget-social.php:202
+msgid "Github Username:"
+msgstr "Nome utente Github:"
+
+#: ../includes/widget-social.php:206
+msgid "Last FM Username:"
+msgstr "Nome utente Last FM:"
+
+#: ../includes/widget-social.php:210
+msgid "Vimeo Username:"
+msgstr "Nome utente Vimeo:"
+
+#: ../includes/widget-social.php:214
+msgid "Tumblr Username:"
+msgstr "Nome utente Tumblr:"
+
+#: ../includes/widget-social.php:218
+msgid "Instagram Username:"
+msgstr "Nome utente Instagram:"
+
+#: ../includes/widget-subscribe.php:20
+msgid "A custom widget to display the feedburner subscription widget."
+msgstr ""
+"Un pannello utilità personalizzato per mostrare il riquadro della "
+"sottoscrizione a feedburner."
+
+#: ../includes/widget-subscribe.php:29
+msgid "&raquo; Tiga Subscribe"
+msgstr "&raquo; Sottoscrivi Tiga"
+
+#: ../includes/widget-subscribe.php:49
+msgid "Email address &hellip;"
+msgstr "Indirizzo email &hellip;"
+
+#: ../includes/widget-subscribe.php:52
+msgid "Subscribe"
+msgstr "Sottoscrivi"
+
+#: ../includes/widget-subscribe.php:90
+msgid "Feedburner ID(http://feeds.feedburner.com/<b>satrya</b>):"
+msgstr "Feedburner ID(http://feeds.feedburner.com/<b>satrya</b>):"
+
+#: ../includes/widget-twitter.php:24
+msgid "A custom widget to display your recent tweets."
+msgstr "Un pannello utilità per mostra i tuoi recenti cinguettii."
+
+#: ../includes/widget-twitter.php:33
+msgid "&raquo; Tiga Twitter"
+msgstr "&raquo; Cinguettii Tiga"
+
+#: ../includes/widget-twitter.php:42
+msgid "Recent Tweets"
+msgstr "Cinguettii Recenti"
+
+#: ../includes/widget-twitter.php:143
+msgid "Number of Tweets to Retrieve:"
+msgstr "Numero di Cinguettii da Recuperare:"
+
+#: ../includes/widget-twitter.php:147
+msgid "Show profile picture"
+msgstr "Mostra l'immagine profilo"
+
+#: ../includes/widget-twitter.php:151
+msgid "Show user name"
+msgstr "Mostra il nome utente"
+
+#: ../includes/widget-twitter.php:155
+msgid "Show full name"
+msgstr "Mostra il nome completo"
+
+#: ../includes/widget-twitter.php:159
+msgid "Show action button (reply, retweet and favorites)"
+msgstr "Mostra il bottone azioni (rispondi, ricinguetta e preferiti)"
+
+#: ../includes/widget-twitter.php:163
+msgid "Show follow button"
+msgstr "Mostra il bottone seguimi"
+
+#: ../page-templates/archives.php:35
+msgid "By Category"
+msgstr "Per Categoria"
+
+#: ../page-templates/archives.php:38
+msgid "By Monthly"
+msgstr "Per Mese"
+
+#: ../page-templates/archives.php:41
+msgid "By Yearly"
+msgstr "Per anno"
+
+#: ../page-templates/archives.php:46
+msgid "Latest Posts"
+msgstr "Ultimo Articolo"
+
+#~ msgid "Custom Code"
+#~ msgstr "Codice Personalizzato"

@@ -1,0 +1,1 @@
+Ù6WQ<?php exit; ?>a:1:{s:7:"content";s:190:"a:2:{s:41:"better-wp-security/better-wp-security.php";a:2:{i:0;s:10:"bwps_setup";i:1;s:12:"on_uninstall";}s:17:"hotfix/hotfix.php";a:2:{i:0;s:20:"WP_Hotfix_Controller";i:1;s:9:"uninstall";}}";}

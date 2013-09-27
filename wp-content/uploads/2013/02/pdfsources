@@ -1,0 +1,838 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>PDF Sources - Pritzker Legal Research Center</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta http-equiv="refresh" content="3600;URL=/library/" /> 
+<!--startindex-->
+
+<meta name="dc.title" content="PDF Sources - Pritzker Legal Research Center" />
+<meta name="dc.subject.name.corporate" content="Northwestern University (Chicago, IL)" />
+<meta name="dc.subject" content="" />
+<meta name="dc.publisher" content="School of Law,Pritzker Legal Research Center" />
+<meta name="dc.description" content="" />
+
+<meta name="dc.language" content="eng" />
+<meta name="dc.rights" content="Copyright 2007 Northwestern University," />
+<meta name="keywords" content="" />
+
+<meta name="robot" content="Index, Follow" />
+<meta name="revisit-after" content="1 Day" />
+<!--stopindex-->
+<link rel="stylesheet" href="/library/css/lawlibrary.css" />
+<link href="/library/css/menubar.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+  <link rel="stylesheet" type="text/css" href="http://www.law.northwestern.edu/library/css/lawlibrary_ie.css" />
+<![endif]-->
+
+<!--[if IE 7]>
+  <link rel="stylesheet" type="text/css" href="http://www.law.northwestern.edu/library/css/lawlibrary_ie7.css" />
+<![endif]-->
+
+<!-- in javascript menus below, spaces are maintained by a non-breaking space created -->
+<!-- by holding the Alt key and typing 0160 on the number pad. JEP 5-16-07 -->
+<script language="JavaScript" type="text/javascript">
+<!--
+function mmLoadMenus() {
+  if (window.mm_menu_1116104749_0) return;
+  window.mm_menu_1116104749_0 = new Menu("root",136,14,"Verdana, Arial, Helvetica, sans-serif",10,"#323232","#323232","#fbfddb","#c0cedc","left","middle",3,1,700,-5,0,true,true,true,7,true,true);
+  mm_menu_1116104749_0.addMenuItem("NUcat Catalog","location='http://nucat.library.northwestern.edu/'");
+  mm_menu_1116104749_0.addMenuItem("WorldCat","location='/library/resolver.cfm?handle=2'");
+  mm_menu_1116104749_0.addMenuItem("Hein Online","location='/library/resolver.cfm?handle=47'");
+  mm_menu_1116104749_0.addMenuItem("JSTOR","location='/library/resolver.cfm?handle=50'");
+  mm_menu_1116104749_0.addMenuItem("NU ER Database","location='/library/resolver.cfm?handle=3391'");
+  mm_menu_1116104749_0.addMenuItem("Lexis","location='http://www.lexisnexis.com/lawschool/'");
+  mm_menu_1116104749_0.addMenuItem("Westlaw","location='http://lawschool.westlaw.com/'");
+  mm_menu_1116104749_0.addMenuItem("Other NU libraries","location='/library/resolver.cfm?handle=3131'");
+   mm_menu_1116104749_0.hideOnMouseOut=true;
+   mm_menu_1116104749_0.bgColor='#fbfddb';
+   mm_menu_1116104749_0.menuBorder=1;
+   mm_menu_1116104749_0.menuLiteBgColor='#fbfddb';
+   mm_menu_1116104749_0.menuBorderBgColor='#646464';
+
+  window.mm_menu_1116170145_0 = new Menu("root",136,14,"Verdana, Arial, Helvetica, sans-serif",10,"#323232","#323232","#fbfddb","#c0cedc","left","middle",3,1,700,-5,0,true,true,true,7,true,true);
+  mm_menu_1116170145_0.addMenuItem("View past exams","location='/library/resolver.cfm?handle=3009'");
+  mm_menu_1116170145_0.addMenuItem("Faculty request form","location='/library/resolver.cfm?handle=3013'");
+  mm_menu_1116170145_0.addMenuItem("Renew books online","location='/library/resolver.cfm?handle=3014'");
+  mm_menu_1116170145_0.addMenuItem("Request stored books","location='/library/resolver.cfm?handle=3015'");
+  mm_menu_1116170145_0.addMenuItem("Interlibrary loan:","location='/library/resolver.cfm?handle=3010'");
+  mm_menu_1116170145_0.addMenuItem("· Make requests","location='https://northwestern.illiad.oclc.org/illiad/illiad.dll'");
+  //mm_menu_1116170145_0.addMenuItem("· View history","location='/library/resolver.cfm?handle=3011'");
+  //mm_menu_1116170145_0.addMenuItem("· Get documents","location='/library/resolver.cfm?handle=3012'");
+   mm_menu_1116170145_0.hideOnMouseOut=true;
+   mm_menu_1116170145_0.bgColor='#fbfddb';
+   mm_menu_1116170145_0.menuBorder=1;
+   mm_menu_1116170145_0.menuLiteBgColor='#fbfddb';
+   mm_menu_1116170145_0.menuBorderBgColor='#646464';
+
+mm_menu_1116170145_0.writeMenus();
+} // mmLoadMenus()
+function submitForm(id) {
+var valid = true;
+if(document.getElementById){ 
+    frm=document.getElementById(id);
+	if (id == "ReqForm") valid = checkform();
+	if (frm && valid) frm.submit();
+}
+else {
+	eval("document." + id + ".submit()");
+}
+}
+function checkContactForm() {
+	var form = document.ContactForm
+	var boolSuccess
+	var reqtype
+	var boolSuccess = true;
+	
+	
+	if (form.Contact[0].checked && (form.ContactEmail.value != permEmail || form.ContactOffice.value != permOffice || form.ContactPhone.value != permPhone )) {
+		alert("You are not able to change your permanent address here.  Please check the second (temporary) contact button")
+		return (boolSuccess = false);
+		}
+	if (form.Contact[2].checked && form.ContactName.value == "") {
+		alert("Please enter the name of the person we should contact.")
+		return (boolSuccess = false);
+		}		
+	return boolSuccess;
+}
+//-->
+</script>
+<script src="/scripts/Spry/widgets/menubar/SpryMenuBar.js" type="text/javascript"></script>
+<script language="JavaScript" src="/library/scripts/mm_menu.js" type="text/javascript"></script>
+
+</head>
+<body>
+<script language="JavaScript1.2" type="text/javascript">mmLoadMenus();</script>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="toptable0">
+	<tr valign="top">
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="toptable1">
+				<tr valign="top">
+					<td width="1" rowspan="2">
+						<img src="/library/images/spacer.gif" width="1" height="90" border="0" alt="" />
+					</td>
+					<td width="410" rowspan="2" align="left" class="dropdownstop">
+						<table border="0" cellpadding="0" cellspacing="0" width="394">
+							<tr valign="top">
+								<td width="394" colspan="4">
+									<img src="/library/images/spacer.gif" width="394" height="50" border="0" alt="Pritzker Legal Research Center" usemap="#logomap" />
+								</td>
+							</tr>
+							<tr valign="middle">
+								<td width="101">
+									<img src="/library/images/spacer.gif" width="101" height="15" border="0" alt="" />
+								</td>
+								<td width="140">
+									<div class="topdropdown" id="research" onmouseover="MM_showMenu(window.mm_menu_1116104749_0,0,14,null,'research')" onmouseout="MM_startTimeout();">
+										<a href="">Top Research Links</a>
+									</div>
+								</td>
+								<td width="13">
+									<img src="/library/images/spacer.gif" width="13" height="15" border="0" alt="" />
+								</td>
+								<td width="140">
+									<div class="topdropdown" id="eservices" onmouseover="MM_showMenu(window.mm_menu_1116170145_0,0,14,null,'eservices')" onmouseout="MM_startTimeout();">
+										<a href="">eServices</a>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+					<td align="right">
+						<div id="search" class="search">
+							<form method="get" action="http://search.northwestern.edu/query.html" name="searchform" id="searchform">
+								<div id="searchbox" class="searchinput">
+									<input type="text" name="qt" id="search-text" alt="Enter Search Term" class="searchbox" />
+									<input type="image" src="/library/images/searchbutton.gif" alt="Search" id="search-button" class="searchbutton" />
+								</div>
+								<div id="searchradiobuttons" class="searchradiobuttons">
+									<input name="qp" value="url:/www.law.northwestern.edu/library" type="radio" alt="Search Law Library" checked="checked" class="radiobutton" />
+									<a href="/library/" title="Law Library" class="searchlink">Law Library</a>
+									<input name="qp" value="url:/www.law.northwestern.edu" type="radio" alt="Search Law Home" class="radiobutton" />
+									<a href="http://www.law.northwestern.edu/" title="Law Home" class="searchlink">Law Home</a>
+								</div>
+							</form>
+						</div>
+					</td>
+				</tr>
+				<tr valign="bottom">
+					<td align="right" class="toprightlinks">
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tr valign="middle">
+								<td>
+									<a href="http://nucat.library.northwestern.edu">NUcat (Catalog)</a>
+								</td>
+								<th>
+									<img src="/library/images/b1spacer.gif" width="1" height="7" border="0" alt="" />
+								</th>
+								<td>
+									<a href="http://www.law.northwestern.edu/library/research/find/a-zeresources/">A-Z eResources</a>
+								</td>
+								<th>
+									<img src="/library/images/b1spacer.gif" width="1" height="7" border="0" alt="" />
+								</th>
+								
+								<td>
+									 
+	 
+ 
+<div id="UserControl" align="center" style="font-family:verdana,helvetica,arial;">
+<a href='https://www.law.northwestern.edu/library/private/userProfile/index.cfm?jsessionid=ae3071069a4067a3031a7b37654941483653&hpage=1'>login</a> 
+
+	
+</div> 
+	
+								</td>
+								<th>
+									<img src="/library/images/b1spacer.gif" width="1" height="7" border="0" alt="" />
+								</th>
+								
+								<td>
+									<a href="http://www.law.northwestern.edu/library/services/facultyservices/">Faculty Services</a>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td class="topnavbar">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tr valign="middle"> <td xmlns="http://www.w3.org/1999/xhtml" class="topnavbarpadding"><img alt="" border="0" height="28" width="1" src="/library/images/spacer.gif"/></td><td xmlns="http://www.w3.org/1999/xhtml"><ul id="Level21" class="MenuBarHorizontal"><li class="MenuBarItemSubmenu"><pre><a href="/library/research/">Conduct Research</a></pre><ul><li><a href="/library/research/find/primarylaw/">U.S. Primary Law</a></li><li><a href="/library/research/unitedstates/">U.S. Government Resources (federal, state and local)</a></li><li><a href="/library/research/illinoischicago/">Illinois and Chicago</a></li><li><a href="/library/research/international/">International Law</a></li><li><a href="/library/research/foreignandcomparative/">Foreign and Comparative Law</a></li><li><a href="/library/research/topics/">Selected Topics</a></li><li><a href="/library/research/find/">Find Books, Articles, etc.</a></li><li><a href="/library/research/writing/">Writing a Paper or Article</a></li><li><a href="/library/research/researchalerts/">Research Alerts</a></li></ul></li></ul><script type="text/javascript"><!--
+					
+ var Level21 = new Spry.Widget.MenuBar("Level21"); 
+//--></script></td><td xmlns="http://www.w3.org/1999/xhtml" class="topnavbarpadding"><img alt="" border="0" height="28" width="1" src="/library/images/spacer.gif"/></td><th xmlns="http://www.w3.org/1999/xhtml"><img alt="" border="0" height="11" width="1" src="/library/images/dkgrayspacer.gif"/></th><td xmlns="http://www.w3.org/1999/xhtml" class="topnavbarpadding"><img alt="" border="0" height="28" width="1" src="/library/images/spacer.gif"/></td><td xmlns="http://www.w3.org/1999/xhtml"><ul id="Level22" class="MenuBarHorizontal"><li class="MenuBarItemSubmenu"><pre><a href="/library/private/services/getresearchassistance/">Ask a Law Librarian</a></pre></li></ul><script type="text/javascript"><!--
+					
+ var Level22 = new Spry.Widget.MenuBar("Level22"); 
+//--></script></td><td xmlns="http://www.w3.org/1999/xhtml" class="topnavbarpadding"><img alt="" border="0" height="28" width="1" src="/library/images/spacer.gif"/></td><th xmlns="http://www.w3.org/1999/xhtml"><img alt="" border="0" height="11" width="1" src="/library/images/dkgrayspacer.gif"/></th><td xmlns="http://www.w3.org/1999/xhtml" class="topnavbarpadding"><img alt="" border="0" height="28" width="1" src="/library/images/spacer.gif"/></td><td xmlns="http://www.w3.org/1999/xhtml"><ul id="Level23" class="MenuBarHorizontal"><li class="MenuBarItemSubmenu"><pre><strong><a href="/library/services/">Using the Library</a></strong></pre><ul><li><a href="/library/services/access/">Access</a></li><li><a href="/library/services/borrow/">Borrow</a></li><li><a href="/library/services/connect/">Connect</a></li><li><a href="/library/services/printcopyscan/">Print/Copy/Scan</a></li><li><a href="/library/services/sourceandcite/">Source and Cite</a></li><li><a href="/library/services/study/">Study</a></li><li><a href="/library/services/microform/">Microform</a></li><li><a href="http://www.law.northwestern.edu/library/libdirect/map.asp">Library Map</a></li><li><a href="/library/services/facultyservices/">Faculty Services</a></li></ul></li></ul><script type="text/javascript"><!--
+					
+ var Level23 = new Spry.Widget.MenuBar("Level23"); 
+//--></script></td><td xmlns="http://www.w3.org/1999/xhtml" class="topnavbarpadding"><img alt="" border="0" height="28" width="1" src="/library/images/spacer.gif"/></td><th xmlns="http://www.w3.org/1999/xhtml"><img alt="" border="0" height="11" width="1" src="/library/images/dkgrayspacer.gif"/></th><td xmlns="http://www.w3.org/1999/xhtml" class="topnavbarpadding"><img alt="" border="0" height="28" width="1" src="/library/images/spacer.gif"/></td><td xmlns="http://www.w3.org/1999/xhtml"><ul id="Level24" class="MenuBarHorizontal"><li class="MenuBarItemSubmenu"><pre><a href="/library/coursesupport/">Course Support</a></pre><ul><li><a href="/library/services/ereserves/">Past Exams</a></li><li><a href="/library/coursesupport/coursereserves/">Course Reserves</a></li><li><a href="/library/coursesupport/outlines/">Course Outlines</a></li><li><a href="/library/coursesupport/blackboard/">Using Blackboard</a></li><li><a href="/library/coursesupport/endnote/">Using EndNote</a></li><li><a href="/library/coursesupport/instructionalservices/">Instructional Services</a></li></ul></li></ul><script type="text/javascript"><!--
+					
+ var Level24 = new Spry.Widget.MenuBar("Level24"); 
+//--></script></td><td xmlns="http://www.w3.org/1999/xhtml" class="topnavbarpadding"><img alt="" border="0" height="28" width="1" src="/library/images/spacer.gif"/></td><th xmlns="http://www.w3.org/1999/xhtml"><img alt="" border="0" height="11" width="1" src="/library/images/dkgrayspacer.gif"/></th><td xmlns="http://www.w3.org/1999/xhtml" class="topnavbarpadding"><img alt="" border="0" height="28" width="1" src="/library/images/spacer.gif"/></td><td xmlns="http://www.w3.org/1999/xhtml"><ul id="Level25" class="MenuBarHorizontal"><li class="MenuBarItemSubmenu"><pre><a href="/library/collections/">Collections</a></pre><ul><li><a href="https://www.law.northwestern.edu/library/secure/collections/newacquisitions/">New Acquisitions List</a></li><li><a href="https://www.law.northwestern.edu/library/private/collections/suggestapurchase/">Suggest a Purchase</a></li><li><a href="/library/collections/featuredresources/">Featured Resources</a></li><li><a href="/library/collections/highlightedcollections/">Highlighted Collections</a></li></ul></li></ul><script type="text/javascript"><!--
+					
+ var Level25 = new Spry.Widget.MenuBar("Level25"); 
+//--></script></td><td xmlns="http://www.w3.org/1999/xhtml" class="topnavbarpadding"><img alt="" border="0" height="28" width="1" src="/library/images/spacer.gif"/></td><th xmlns="http://www.w3.org/1999/xhtml"><img alt="" border="0" height="11" width="1" src="/library/images/dkgrayspacer.gif"/></th><td xmlns="http://www.w3.org/1999/xhtml" class="topnavbarpadding"><img alt="" border="0" height="28" width="1" src="/library/images/spacer.gif"/></td><td xmlns="http://www.w3.org/1999/xhtml"><ul id="Level26" class="MenuBarHorizontal"><li class="MenuBarItemSubmenu"><pre><a href="/library/aboutus/">About Us</a></pre><ul><li><a href="/library/aboutus/hours/">Hours</a></li><li><a href="/library/aboutus/location/">Location</a></li><li><a href="/library/aboutus/contactus/">Contact Us</a></li><li><a href="/library/aboutus/announcements/">Announcements</a></li><li><a href="/library/aboutus/jobs/">Jobs</a></li><li><a href="/library/aboutus/suggestions/">Your Suggestions</a></li></ul></li></ul><script type="text/javascript"><!--
+					
+ var Level26 = new Spry.Widget.MenuBar("Level26"); 
+//--></script></td><td xmlns="http://www.w3.org/1999/xhtml" class="topnavbarpadding"><img alt="" border="0" height="28" width="1" src="/library/images/spacer.gif"/></td> 
+					 <td class="topnavbarpadding">
+						<img src="/library/images/spacer.gif" width="1" height="28" border="0" alt="" />
+					</td> 
+				</tr>
+			</table>
+		</td>	
+	</tr>
+</table>
+
+<!--Middle part starts here-->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" class="middletable40">
+	<tr xmlns="http://www.w3.org/1999/xhtml" valign="bottom"><td width="20"><img alt="" border="0" height="25" width="20" src="/library/images/spacer.gif"/></td><td width="179"><img alt="" border="0" height="1" width="179" src="/library/images/spacer.gif"/></td><td class="breadcrumbs"><ul><li><a href="/library/services/">Using the Library</a></li><li><a href="/library/services/sourceandcite/">Source and Cite</a></li><li>PDF Sources</li></ul></td><td width="20"><img alt="" border="0" height="25" width="20" src="/library/images/spacer.gif"/></td></tr><tr xmlns="http://www.w3.org/1999/xhtml" valign="top"><td width="20" rowspan="2"><img alt="" border="0" height="22" width="20" src="/library/images/spacer.gif"/></td><td width="179" rowspan="2"><div class="mainsectionheading"><a href="/library/services/">Using the Library</a></div></td><td colspan="2" class="thintopline"><img alt="" border="0" height="11" width="1" src="/library/images/spacer.gif"/></td></tr> 
+	<tr>
+		<td colspan="2"><img src="/library/images/spacer.gif" width="1" height="10" border="0" alt="" /></td>
+	</tr>
+	<tr valign="top">
+		<td width="20"><img src="/library/images/spacer.gif" width="20" height="14" border="0" alt="" /></td>
+		<td width="179" class="thintopnavline"><img src="/library/images/spacer.gif" width="179" height="1" border="0" alt="" /></td>
+		<td><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+		<td width="20"><img src="/library/images/spacer.gif" width="20" height="14" border="0" alt="" /></td>
+	</tr>
+	<tr valign="top">
+		<td width="20"><img src="/library/images/spacer.gif" width="20" height="1" border="0" alt="" /></td>
+		<td width="179" class="mainnavigation">
+			<ul xmlns="http://www.w3.org/1999/xhtml"><li><a href="/library/services/access/">Access</a></li><li><a href="/library/services/borrow/">Borrow</a></li><li><a href="/library/services/connect/">Connect</a></li><li><a href="/library/services/printcopyscan/">Print/Copy/Scan</a></li><li><strong><a href="/library/services/sourceandcite/">Source and Cite</a></strong><ul><li><a href="/library/services/sourceandcite/procedures/">Borrow Procedures</a></li><li><strong><a href="/library/services/sourceandcite/pdfsources/">PDF Sources</a></strong></li></ul></li><li><a href="/library/services/study/">Study</a></li><li><a href="/library/services/microform/">Microform</a></li><li><a href="http://www.law.northwestern.edu/library/libdirect/map.asp">Library Map</a></li><li><a href="/library/services/facultyservices/">Faculty Services</a></li></ul> 
+		</td>
+		<td class="maincontentarea"><!--Main content goes here-->
+		<!--Shortcuts table starts here-->
+		
+		<!--Shortcuts table ends here-->
+		<!--Sliding image starts here-->
+					
+		<!--Sliding image ends here-->		
+		<h1>PDF Sources</h1> 
+	<!--startindex-->
+	
+	
+
+<div id=""3"">
+	
+<div class="_contents">
+<!-- <h1 class="_pagetitle"></h1>-->
+ <div class="_toc">
+  <ul class="twocolumn">
+            <li><a href="#Rationale">Rationale</a></li>
+            <li><a href="#Cases"><strong>Cases</strong></a>: <a href="#Cases">US Supreme Court</a> | <a href="#Inferior">Other Courts</a></li>
+            <li><a href="#GOVDOCS">U.S. Statutes, Legislative Materials, and Regulations</a></li>
+            <li><a href="#Journals">Journal Articles</a></li>
+            <li><a href="#Books">Books</a></li>
+            <li><a href="#Newspapers">Newspapers</a></li>
+            <li><a href="#International">International Resources</a></li>
+        </ul>
+</div>
+
+<p><br />
+    <a name="Rationale" id="Rationale"><strong> RATIONALE FOR PDF SOURCES</strong></a> </p>
+<blockquote>
+  <p><em> The Bluebook</em> has a strong preference for citation to print sources, expressed in Rule 18 and implicit throughout the rules. <em>The Bluebook </em>prefers print sources because they are stable over time and not subject to changes in format or pagination, or to "link rot." In many cases PDF images of print sources are readily available either on free Web sites or through library databases, and frequently these will be the most convenient method for source and cite verification. </p>
+  <p>Note that it may be necessary or appropriate to cite to a more preferred source than the author cited. A case may have become available in a source preferred by <em>The Bluebook</em>, or a newspaper article that was originally cited to a newspaper Web site could be acquired by an interlibrary loan request for the article as it appeared in print. </p>
+  <p>Update your Adobe Acrobat reader <a href="http://www.library.northwestern.edu/reader/">here</a>. </p>
+  <p><strong>If you have any questions about any of the citations, sources, or databases used in source and cite, please ask a reference librarian for assistance! </strong></p>
+</blockquote>
+<p><a href="#top"><strong>Back to top</strong></a></p>
+<p><a name="Cases" id="Cases"><strong> CASES </strong></a><strong> </strong> </p>
+<blockquote>
+  <p><a name="SCT" id="SCT"></a><strong> <u>United States Supreme Court</u></strong>. <em>The Bluebook</em> provides extensive rules for citation to United States Supreme Court opinions in Table T1. Slip opinions are first to appear and the <em>United States Reports</em> the last. The library holds print copies of each of these sources except slip opinions. The Bluebook requires citation in the following order of preference, if the decision is available in that source. If the case may have become available in a more preferred source since the article was drafted, cite to that instead. </p>
+  <table border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr bgcolor="#cccccc">
+        <td valign="top"><div align="center"><strong>Cite</strong></div></td>
+        <td valign="top" width="295"><p><strong> Reporter (in order of <em>Bluebook</em> preference) </strong></p></td>
+        <td valign="top" width="148"><p><strong> PDF Source </strong></p></td>
+        <td valign="top" width="148"><p><strong> Coverage </strong></p></td>
+      </tr>
+      <tr>
+        <td rowspan="2" valign="top">U.S.</td>
+        <td rowspan="2" valign="top" width="295"><p> <strong>Official <em>United States Reports. </em></strong></p>
+            <p> (Publication of the <em>United States Reports</em> generally lags 2-3 years after the decisions.) </p></td>
+        <td valign="top" width="148"><p><a href="https://turing.library.northwestern.edu/login?url=http://www.heinonline.org/HOL/Index?index=usreports/usreports&amp;collection=usreports">HeinOnline</a></p></td>
+        <td valign="top" width="148"><p> Complete archive </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="148"><p><a href="http://www.supremecourtus.gov/opinions/boundvolumes.html">Supreme Court Web site</a> (files are very large) </p></td>
+        <td valign="top" width="148"><p> From 1991 </p></td>
+      </tr>
+      <tr>
+        <td valign="top">U.S.</td>
+        <td valign="top" width="295"><p><span class="style1"><em> United States</em><em> Reports Preliminary Prints</em></span></p>
+            <p> (Softbound versions subject to correction; lags about a year.) </p></td>
+        <td valign="top" width="148"><p><a href="https://turing.library.northwestern.edu/login?url=http://www.heinonline.org/HOL/Index?index=usreports/usrepprints&amp;collection=usreports">HeinOnline</a></p></td>
+        <td valign="top" width="148"><p> Approximately one year to three years </p></td>
+      </tr>
+      <tr>
+        <td valign="top">S. Ct.</td>
+        <td valign="top" width="295"><p> West <em><a href="http://lawschool.westlaw.com/shared/westlawRedirect.asp?url=http%3A%2F%2Fwww%2Ewestlaw%2Ecom%2Fsearch%2Fdefault%2Ewl%3Fdb%3Dsct%26Action%3Dsearch%26RS%3DITK3%2E0%26VR%3D1%2E0&amp;appflag=87.9">Supreme Court Reporter</a></em>. </p></td>
+        <td valign="top" width="148"><p> West's <em>Supreme Court Reporter</em> is available in PDF in Find &amp; Print. Follow the instructions <strong> below</strong>. You can also find the PDFs by search in the <a href="http://web2.westlaw.com/search/default.wl?fn=_top&amp;utid=%7b30BE42BF-6D7A-4259-A7FD-7E049B092F26%7d&amp;rs=WLW6.07&amp;rp=%2fsearch%2fdefault.wl&amp;mt=Illinois&amp;vr=2.0&amp;sv=Split&amp;DB=SCT"><strong>SCT</strong></a> database. </p></td>
+        <td valign="top" width="148"><p> From 1918 (for source and cite purposes, only last 2-3 years important for citation purposes) </p></td>
+      </tr>
+      <tr>
+        <td valign="top">L. Ed.</td>
+        <td valign="top" width="295"><p><em> Supreme Court Reporter -- Lawyer's Edition</em></p>
+       </td>
+        <td valign="top" width="148"><p> Not available in PDF. </p></td>
+        <td valign="top" width="148"></td>
+      </tr>
+      <tr>
+        <td valign="top">U.S.L.W.</td>
+        <td valign="top" width="295"><p><em> United States</em><em> Law Week </em></p></td>
+        <td valign="top" width="148"><p><a href="/library/resolver.cfm?handle=81">Database available online</a>, but not in a PDF format. </p></td>
+        <td valign="top" width="148"></td>
+      </tr>
+      <tr>
+        <td rowspan="2" width="148">(Slip Op.)
+            </td>
+        <td rowspan="2" valign="top" width="295"><p> Slip opinions </p></td>
+        <td valign="top" width="148"><p><a href="http://www.supremecourtus.gov/opinions/opinions.html">Supreme Court Web site</a></p></td>
+        <td valign="top" width="148"><p> Last three years </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="295"><a href="https://turing.library.northwestern.edu/login?url=http://www.heinonline.org/HOL/Index?index=usreports/usrepslips&amp;collection=usreports">HeinOnline</a></td>
+        <td valign="top" width="148"><p> Last four years </p></td>
+      </tr>
+      <tr>
+        <td rowspan="2"></td>
+        <td rowspan="2" valign="top" width="295"><p> Records and Briefs </p>
+            </td>
+        <td valign="top" width="144"><p><a href="http://lawschool.westlaw.com/shared/westlawRedirect.asp?url=http%3A%2F%2Fwww%2Ewestlaw%2Ecom%2Fsearch%2Fdefault%2Ewl%3Fdb%3Dsct%2Dbrief%26Action%3Dsearch%26RS%3DITK3%2E0%26VR%3D1%2E0&amp;appflag=87.9">Westlaw</a></p></td>
+        <td valign="top" width="151"><p> From 1990 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="295"><a href="/library/resolver.cfm?handle=1741">Making of Modern Law</a></td>
+        <td valign="top" width="151"><p> 1832-1978 </p></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+  <p><strong> <a name="Inferior" id="Inferior"></a>Published Cases in Federal and State Courts. </strong></p>
+  <p> Westlaw now provides PDFs of substantially all published decisions in its federal and Regional Reporters <strong>back to 1920</strong>. This means that <strong>most federal and state cases you need should be available</strong>. Since the <em>Bluebook</em> prefers the West Regional Reporters to state official reporters, West's PDFs make the job much easier. The principal exceptions are the <em>California Reporter</em> (Cal. Rptr.) and the <em>New York Supplement </em>(N.Y.S. Supp.)<em>.</em></p>
+  <p> You can access PDFs at the top of any opinions for which they are available by locating the decision with Find or by a search in the appropriate case database. The easiest approach to download several cases at once, however, is to use West's <strong>Find &amp; Print</strong>. To use <strong>Find &amp; Print</strong>, log on to <strong><a href="http://lawschool.westlaw.com/"> Westlaw</a></strong>. Choose <strong>Research Now on Westlaw</strong> from the left to reach the Westlaw main page. Choose <strong>Find &amp; Print</strong> from the very top left of the Westlaw main page. Enter the cites you need (up to 20), and check <strong>Substitute with Reporter Images. </strong></p>
+  <p> Here is the coverage, courtesy of West: </p>
+  <table align="center" border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr valign="top">
+        <td width="88"><p><strong> CITE </strong></p></td>
+        <td width="161"><p><strong> REPORTER </strong></p></td>
+        <td width="251"><p><strong> Reporter Volumes in PDF </strong></p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> S. Ct. </p></td>
+        <td valign="bottom" width="161"><p> Supreme Court </p></td>
+        <td valign="bottom" width="251"><p> 39 - to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> F. </p></td>
+        <td valign="bottom" width="161"><p> Federal 1st </p></td>
+        <td valign="bottom" width="251"><p> 259 - 300 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> F.2d </p></td>
+        <td valign="bottom" width="161"><p> Federal 2d </p></td>
+        <td valign="bottom" width="251"><p> 1 - 999 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> F.3d </p></td>
+        <td valign="bottom" width="161"><p> Federal 3d </p></td>
+        <td valign="bottom" width="251"><p> 1 - to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> F. Supp. </p></td>
+        <td valign="bottom" width="161"><p> Federal Supplement 1st </p></td>
+        <td valign="bottom" width="251"><p> 1 - to 999 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> F. Supp. 2d </p></td>
+        <td valign="bottom" width="161"><p> Federal Supplement 2d </p></td>
+        <td valign="bottom" width="251"><p> 1 - to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> B.R. </p></td>
+        <td valign="bottom" width="161"><p> Bankruptcy </p></td>
+        <td valign="bottom" width="251"><p> 1 - to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> N.W. </p></td>
+        <td valign="bottom" width="161"><p> NorthWestern 1st </p></td>
+        <td valign="bottom" width="251"><p> 174 - 300 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> N.W.2d </p></td>
+        <td valign="bottom" width="161"><p> NorthWestern 2d </p></td>
+        <td valign="bottom" width="251"><p> 1 - to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> N.E. </p></td>
+        <td valign="bottom" width="161"><p> NorthEastern 1st </p></td>
+        <td valign="bottom" width="251"><p> 124 - 200 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> N.E.2d </p></td>
+        <td valign="bottom" width="161"><p> NorthEastern 2d </p></td>
+        <td valign="bottom" width="251"><p> 1 - to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> So. </p></td>
+        <td valign="bottom" width="161"><p> Southern 1st </p></td>
+        <td valign="bottom" width="251"><p> 82 - 200 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> So. 2d </p></td>
+        <td valign="bottom" width="161"><p> Southern 2d </p></td>
+        <td valign="bottom" width="251"><p> 1 - to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> S.E. </p></td>
+        <td valign="bottom" width="161"><p> SouthEastern 1st </p></td>
+        <td valign="bottom" width="251"><p> 100 - 200 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> S.E.2d </p></td>
+        <td valign="bottom" width="161"><p> SouthEastern 2d </p></td>
+        <td valign="bottom" width="251"><p> 1 - to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> S.W. </p></td>
+        <td valign="bottom" width="161"><p> SouthWestern 1st </p></td>
+        <td valign="bottom" width="251"><p> 215 - 300 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> S.W.2d </p></td>
+        <td valign="bottom" width="161"><p> SouthWestern 2d </p></td>
+        <td valign="bottom" width="251"><p> 1 - to 999 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> S.W.3d </p></td>
+        <td valign="bottom" width="161"><p> SouthWestern 3d </p></td>
+        <td valign="bottom" width="251"><p> 1 - to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> P. </p></td>
+        <td valign="bottom" width="161"><p> Pacific 1st </p></td>
+        <td valign="bottom" width="251"><p> 183 - 300 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> P.2d </p></td>
+        <td valign="bottom" width="161"><p> Pacific 2d </p></td>
+        <td valign="bottom" width="251"><p> 1 - 999 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> P.3d </p></td>
+        <td valign="bottom" width="161"><p> Pacific 3d </p></td>
+        <td valign="bottom" width="251"><p> 1 - to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> A. </p></td>
+        <td valign="bottom" width="161"><p> Atlantic 1st </p></td>
+        <td valign="bottom" width="251"><p> 107 - 200 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="88"><p> A.2d </p></td>
+        <td valign="bottom" width="161"><p> Atlantic 2d </p></td>
+        <td valign="bottom" width="251"><p> 1 - to date </p></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <p> <strong><u>Cases or Pleadings in Lower Courts Not Available in PDF on Westlaw</u></strong>. </p>
+  <p> Traditionally lower court decisions in most state court systems, in addition to pleadings and other court filings, were not published because they lacked precedential value. Now you can frequently find such documents in PDF online, but it can take some searching. They may be posted by parties to the case, interested organizations, or courts themselves where cases are especially important. A Google search limited to the <em>filetype:pdf</em> can often bring up a document if you search for the key parties in the case. </p>
+</blockquote>
+<strong><a href="#top">Back to top</a></strong> <br />
+<br />
+<p><strong><a name="GOVDOCS" id="GOVDOCS"> UNITED STATES </a> GOVERNMENT DOCUMENTS </strong></p>
+<blockquote>
+  <table border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr bgcolor="#cccccc">
+        <td valign="top" width="164"><p align="center"><strong> What the cite looks like </strong></p></td>
+        <td valign="top" width="148"><p align="center"><strong> Publication </strong></p></td>
+        <td colspan="2" valign="top" width="106"><p align="center"><strong> PDF Source </strong></p></td>
+        <td colspan="2" valign="top" width="90"><p align="center"><strong> Coverage </strong></p></td>
+      </tr>
+      <tr>
+        <td colspan="6" valign="top" width="508"><p><strong> U.S. Public Laws </strong></p></td>
+      </tr>
+      <tr>
+        <td rowspan="3" valign="top" width="164"><p align="left"> Pub. L. No. 102-2 <br />
+            P.L. 102-408 <br />
+            106 Stat. 1992 </p></td>
+        <td rowspan="3" valign="top" width="148"><p align="center"> Statutes at Large </p>
+            
+            <p align="center"> U.S. Public and Private Laws </p></td>
+        <td valign="top" width="98"><p align="center"><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=STATUTE">FDsys</a></p>
+           
+            <p align="center"><a href="http://thomas.loc.gov/bss/d109/d109laws.html">THOMAS</a></p></td>
+        <td colspan="3" valign="top" width="98"><p align="center"> 104 th Congress (1995) to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="98"><p align="center"><a href="https://turing.library.northwestern.edu/login?url=http://www.heinonline.org/HOL/Index?collection=statute">HeinOnline</a></p></td>
+        <td colspan="3" valign="top" width="98"><p align="center"> 1789-2002 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="98"><p align="center"><a href="http://lawschool.westlaw.com/shared/westlawRedirect.asp?url=http%3A%2F%2Fwww%2Ewestlaw%2Ecom%2Fsearch%2Fdefault%2Ewl%3Fdb%3DUS%2DSTATLRG%26Action%3Dsearch%26RS%3DITK3%2E0%26VR%3D1%2E0&amp;appflag=87.9">Westlaw</a> (US-STATLRG) </p></td>
+        <td colspan="3" valign="top" width="98"><p align="center"> 1789-1972 </p>
+           </td>
+      </tr>
+      <tr>
+        <td colspan="6" valign="top" width="508"><p><strong> Proposed Laws and Congressional Materials </strong></p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="164">S. 516 <br />
+          H.R. 422 </td>
+        <td valign="top" width="148"><p align="center"> Congressional Bills </p></td>
+        <td width="106" colspan="2" align="center" valign="top"><p><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=BILLS">FDsys</a></p>
+            <p><a href="http://thomas.loc.gov/home/bills_res.html">THOMAS</a></p></td>
+        <td colspan="2" valign="top" width="90"><p align="center"> 103d Congress, (1993) to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="164"></td>
+        <td valign="top" width="148"><p align="center"> Congressional Committee Prints </p></td>
+        <td colspan="2" valign="top" width="106"><p align="center"><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=CPRT">FDsys</a></p></td>
+        <td colspan="2" valign="top" width="90"><p align="center"> 105th Congress (1997) to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="164"></td>
+        <td valign="top" width="148"><p align="center"> Congressional Hearings </p></td>
+        <td colspan="2" valign="top" width="106"><p align="center"><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=CHRG">FDsys</a></p></td>
+        <td colspan="2" valign="top" width="90"><p align="center"> 105th Congress (1997) to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="164"> H.R. Rep. No. 98-2 <br />
+          S. Rep. No. 104-201 </td>
+        <td valign="top" width="148"><p align="center"> Congressional Reports </p></td>
+        <td colspan="2" valign="top" width="106"><p align="center"><a href="http://www.gpoaccess.gov/serialset/creports/index.html">FDsys</a></p>
+            <p align="center"><a href="http://thomas.loc.gov/cp109/cp109query.html">THOMAS</a></p></td>
+        <td colspan="2" valign="top" width="90"><p align="center"> 99th Congress (1985) to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="164">H.R. Rep. No. 70-13 <br />
+          S. Rep. No. 63-114 </td>
+        <td valign="top" width="148"><p align="center"> Congressional Reports (Historic) </p></td>
+        <td colspan="2" valign="top" width="106"><p align="center"><a href="/library/resolver.cfm?handle=334">LexisNexis Congressional</a> (Serial Set) </p></td>
+        <td colspan="2" valign="top" width="90"><p align="center"> 1817-1969 </p></td>
+      </tr>
+      <tr>
+        <td rowspan="2" valign="top" width="164">145 Cong. Rec. H1817 </td>
+        <td valign="top" width="148"><p align="center"> Bound Congressional Record </p></td>
+        <td colspan="2" valign="top" width="106"><p align="center"><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=CRECB">FDsys</a></p>
+            <p align="center"><a href="http://thomas.loc.gov/home/r109query.html">THOMAS</a></p></td>
+        <td colspan="2" valign="top" width="90"><p align="center"> Vol. 145 (1998) to date </p>
+           </td>
+      </tr>
+      <tr>
+        <td valign="top" width="148"><p align="center"> Early congressional debates </p></td>
+        <td colspan="2" valign="top" width="106"><p align="center"> Library of Congress <a href="http://lcweb2.loc.gov/ammem/amlaw/lawhome.html">American Memory</a> project </p></td>
+        <td colspan="2" valign="top" width="90"><p align="center"> 1789-1877 </p></td>
+      </tr>
+      <tr>
+        <td colspan="6" valign="top" width="508"><p><strong> Presidential Materials </strong></p></td>
+      </tr>
+      <tr>
+        <td rowspan="2" valign="top" width="164"><p align="center"> Weekly Comp. Pres. Doc. </p></td>
+        <td rowspan="2" valign="top" width="148"><p align="center"> Weekly Compilation of Presidential Documents </p></td>
+        <td colspan="3" valign="top" width="108"><p align="center"><a href="http://www.gpoaccess.gov/wcomp/index.html">FDsys</a></p></td>
+        <td valign="top" width="88"><p align="center"> 1993 to date </p></td>
+      </tr>
+      <tr>
+        <td colspan="3" valign="top" width="108"><p align="center"><a href="http://www.heinonline.org.turing.library.northwestern.edu/HOL/Index?index=presdocs/presdocs&amp;collection=fedreg">HeinOnline</a></p></td>
+        <td valign="top" width="88"><p align="center"> 1965 to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="164">Pub. Papers </td>
+        <td valign="top" width="148"><p align="center"> Public Papers of the Presidents of the U.S. </p></td>
+        <td width="108" colspan="3" align="center" valign="top"><p align="center"><a href="http://www.gpoaccess.gov/pubpapers/index.html">FDsys</a></p></td>
+        <td valign="top" width="88"><p align="center"> 1991 to date </p></td>
+      </tr>
+      <tr>
+        <td colspan="6" valign="top" width="508"><p><strong> Administrative Materials (Regulations) </strong></p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="164"></td>
+        <td valign="top" width="148"><p align="center"> GAO Reports </p></td>
+        <td valign="top" width="98"><p align="center"><a href="http://www.gpoaccess.gov/gaoreports/index.html">FDsys</a></p></td>
+        <td colspan="3" valign="top" width="98"><p align="center"> FY 1989 to date </p></td>
+      </tr>
+      <tr>
+        <td rowspan="2" valign="top" width="164"> 47 C.F.R. &sect; 73.609</td>
+        <td width="148" rowspan="2" align="center" valign="top">Code of Federal Regulations </td>
+        <td width="98" align="center" valign="top"><a href="http://www.gpo.gov/fdsys/browse/collectionCfr.action?collectionCode=CFR">FDsys</a></td>
+        <td width="98" colspan="3" align="center" valign="top"><p align="center"> 1996 to date </p></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top"><a href="/library/resolver.cfm?handle=1949">HeinOnline</a></td>
+        <td width="98" colspan="3" align="center" valign="top">1938-1983</td>
+      </tr>
+      <tr>
+        <td rowspan="2" valign="top" width="164"> 60 Fed. Reg. 50,379 </td>
+        <td width="148" rowspan="2" align="center" valign="top"> Federal Register (includes proposed regulations)</td>
+        <td valign="top" width="98"><p align="center"><a href="http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=FR">FDsys</a></p></td>
+        <td colspan="3" valign="top" width="98"><p align="center"> 1994 to date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="98"><p align="center"><a href="http://www.heinonline.org.turing.library.northwestern.edu/HOL/Index?index=fedreg/fedreg&amp;collection=fedreg">HeinOnline</a></p></td>
+        <td colspan="3" valign="top" width="98"><p align="center"> 1936 to near current </p></td>
+      </tr>
+    </tbody>
+  </table>
+  <p align="center"><strong> <u>Various Government Agency Reports and Working Papers</u> </strong></p>
+  <p> <strong>Frequently working papers and agency reports court can be located in PDF by a search on Google</strong>. Some tricks to narrow your search include placing key phrases from the title in quotes (but note that authors frequently misstate titles so try various options), limiting the domain searched where appropriate (for a government report add <em>site:gov</em> to your Google search), and limiting the filetype to PDF (add <em>filetype:pdf</em> to your Google search). </p>
+
+</blockquote>
+<a href="#top"><strong>Back to top</strong></a><br />
+<br />
+<strong><a name="Journals" id="Journals"><strong> JOURNA</strong></a><strong>L ARTICLES</strong> </strong>
+<blockquote>
+  <p> <strong>Most common legal and academic journals are readily available in PDF, except occasionally the most current issue(s)</strong>. In general, the library catalog <a href="http://nucat.library.northwestern.edu/">NUcat</a> or the Northwestern Main library <a href="http://er.library.northwestern.edu/db_browse.asp">electronic resources</a> page will provide links to electronic versions of journals to which Northwestern subscribes. <strong>Note that in <a href="http://nucat.library.northwestern.edu/">NUcat</a> or the <a href="http://er.library.northwestern.edu/db_browse.asp">electronic resources</a> page, you must enter the name of the journal, not the title of the article to retrieve your results. </strong></p>
+  <p>Not all electronic versions will provide PDFs, but it is not generally easy to tell from the links. Examples of databases that do include PDFs are <a href="/library/resolver.cfm?handle=47">HeinOnline</a>, <a href="/library/resolver.cfm?handle=50">JSTOR</a>, <a href="/library/resolver.cfm?handle=50">Academic Search Elite</a>, and <a href="/library/resolver.cfm?handle=23">Wilson Select Plus</a>. Occasionally <a href="/library/resolver.cfm?handle=51">LegalTrac</a> will provide PDFs of certain bar magazines. LexisNexis Academic is an example of a database that does not provide PDF versions. (A couple of our databases provide a PDF that is not actually a facsimile of the original, but this is rare.) </p>
+  <p><span class="style3"><a href="/library/resolver.cfm?handle=47">HeinOnline</a> contains most legal journals you will need</span>. An example of a law journal that is not in <a href="/library/resolver.cfm?handle=47">HeinOnline</a> is the <em>Journal of Law &amp; Society</em>, which is found in JSTOR<em>. </em><a href="/library/resolver.cfm?handle=47">HeinOnline</a> and <a href="/library/resolver.cfm?handle=50">JSTOR</a> usually "embargo" the last year or more of most journals, but frequently we will have access to current issues in PDF through another source. Use <a href="http://nucat.library.northwestern.edu/">NUcat</a> to determine whether another source is available. </p>
+</blockquote>
+<p><a href="#top"><strong>Back to top</strong></a> </p>
+<p><br />
+    <a name="Books" id="Books"><strong> BOOKS </strong></a> </p>
+<blockquote>
+  <p> The university subscribes to some current books in PDF through various electronic book vendors. Use <a href="http://nucat.library.northwestern.edu/">NUcat</a> for access to these books. </p>
+  <p>The library has access to a tremendous number of digitized historical books and other works, including treatises, colonial and early state laws, and founding documents. These are highlighted on our <a href="/library/research/topics/historical/">historical resources</a> page. In many cases, the library catalog <a href="http://nucat.library.northwestern.edu/">NUcat</a> will provide access to these digitized texts. </p>
+</blockquote>
+<p><a href="#top"><strong>Back to top</strong></a></p>
+<p><a name="Newspapers" id="Newspapers"><strong> NEWSPAPERS</strong></a></p>
+<blockquote>
+  <table border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr bgcolor="#cccccc">
+        <td valign="top" width="148"><p><strong>Newspaper </strong></p></td>
+        <td valign="top" width="148"><p><strong>PDF Coverage </strong></p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="148"><p><a href="/library/resolver.cfm?handle=340">Chicago Tribune (Historical)</a></p></td>
+        <td valign="top" width="148"><p>1890-1985 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="148"><p><a href="/library/resolver.cfm?handle=1366">Los Angeles Times (Historical)</a></p></td>
+        <td valign="top" width="148"><p> 1881-1985<strong></strong></p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="148"><p><a href="/library/resolver.cfm?handle=341">New York Times (Historical)</a></p></td>
+        <td valign="top" width="148"><p> 1851 through the end of 2003<strong></strong></p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="148"><p><a href="/library/resolver.cfm?handle=1323">Wall Street Journal (Historical)</a></p></td>
+        <td valign="top" width="148"><p> 1889 through 1989<strong></strong></p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="148"><p><a href="/library/resolver.cfm?handle=1473">Chicago Defender</a></p></td>
+        <td valign="top" width="148"><p> 1910-1975 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="148"><p><a href="/library/resolver.cfm?handle=1883">Washington Post </a></p></td>
+        <td valign="top" width="148"><p> 1877-1990 </p></td>
+      </tr>
+    </tbody>
+  </table>
+</blockquote>
+<strong> <a name="International" id="International"> INTERNATIONAL RESOURCES</a></strong> <br />
+<blockquote>
+  <table border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr bgcolor="#cccccc">
+        <td valign="top" width="590"><p align="center"><strong> What the cite looks like </strong></p></td>
+        <td valign="top" width="168"><p align="center"><strong> Item </strong></p></td>
+        <td colspan="2" valign="top" width="132"><p align="center"><strong> PDF Source </strong></p></td>
+        <td valign="top" width="127"><p align="center"><strong> PDF Coverage </strong></p></td>
+      </tr>
+      <tr>
+        <td colspan="5" valign="top" width="590"><p> <strong>U.S. Treaties</strong> (Note: Several treaty indexes and guides are available in the U.S. Treaty collection in <a href="https://turing.library.northwestern.edu/login?url=http://www.heinonline.org/HOL/Index?collection=ustreaties">HeinOnline</a>.) </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="590">T.I.A.S. (Older T.I.A.S. Cites can be found in U.S.T. below) </td>
+        <td valign="top" width="168"><p align="center"> Treaties and International Acts Series </p></td>
+        <td width="132" align="center" valign="top"><p><a href="https://turing.library.northwestern.edu/login?url=http://www.heinonline.org/HOL/Index?index=ustreaties/usttias&amp;collection=ustreaties">HeinOnline</a><br />
+          <a href="http://www.state.gov/s/l/treaty/tias/index.htm">U.S. Dept. of State</a></p></td>
+        <td width="130" colspan="2" align="center" valign="top"><p> 1982-1996<br />1996-2001</p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="590"><p align="center"> U.S.T. </p>
+           </td>
+        <td valign="top" width="168"><p align="center"> United States Treaties and Other International Agreements </p></td>
+        <td width="132" align="center" valign="top"><p><a href="https://turing.library.northwestern.edu/login?url=http://www.heinonline.org/HOL/Index?index=ustreaties/ust&amp;collection=ustreaties">HeinOnline</a></p></td>
+        <td width="130" colspan="2" align="center" valign="top"><p> 1950-1984 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="590"><p align="center"> Stat. </p></td>
+        <td valign="top" width="168"><p align="center"> United States Treaties in the Statutes at Large (1848, 1867) </p></td>
+        <td width="132" align="center" valign="top"><p><a href="https://turing.library.northwestern.edu/login?url=http://www.heinonline.org/HOL/Index?index=ustreaties/ussl&amp;collection=ustreaties">HeinOnline</a></p></td>
+        <td width="130" colspan="2" align="center" valign="top"><p> 1848, 1867 </p></td>
+      </tr>
+      <tr>
+        <td colspan="5" valign="top" width="590"><p><strong> Other International Materials </strong></p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="590"><p align="center"> I.L.M. </p></td>
+        <td valign="top" width="168"><p align="center"> International Legal Materials </p></td>
+        <td width="132" align="center" valign="top"><p><a href="http://www.heinonline.org/HOL/Index?collection=journals&amp;index=journals/intlm">HeinOnline</a></p></td>
+        <td width="130" colspan="2" align="center" valign="top"><p> 1962 only</p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="590"><p align="center"> KAV </p></td>
+        <td valign="top" width="168"><p> Kav Agreements </p></td>
+        <td width="132" align="center" valign="top"><p><a href="https://turing.library.northwestern.edu/login?url=http://www.heinonline.org/HOL/Index?index=ustreaties/ustkav&amp;collection=ustreaties">HeinOnline</a></p></td>
+        <td width="130" colspan="2" align="center" valign="top"><p> 1986-date </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="590"><p align="center"> U.N.T.S. </p></td>
+        <td valign="top" width="168"><p align="center"> United Nations Treaty Series </p></td>
+        <td valign="top" width="132"><p align="center"><a href="http://www.heinonline.org/HOL/Index?collection=unl&amp;set_as_cursor=clear">HeinOnline</a></p>
+          <p align="center"><a href="/library/resolver.cfm?handle=73">United Nations Treaty Collection</a></p></td>
+        <td colspan="2" valign="top" width="130"><p align="center"> From 1946 </p>
+          <p align="center">From 1946</p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="590"><p align="center"> L.N.T.S. </p></td>
+        <td valign="top" width="168"><p align="center"> League of Nations Treaty Series </p></td>
+        <td valign="top" width="132"><p align="center"><a href="http://www.heinonline.org/HOL/Index?collection=unl&amp;set_as_cursor=clear">HeinOnline</a></p>
+          <p align="center"><a href="/library/resolver.cfm?handle=73">United Nations Treaty Collection</a></p></td>
+        <td colspan="2" valign="top" width="130"><p align="center"> 1920-1944 </p>
+          <p align="center">1920-1944</p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="590"><p align="center"> O.J. </p></td>
+        <td valign="top" width="168"><p align="center"><em> Official Journal of the European Union </em></p></td>
+        <td valign="top" width="132"><p align="center"><a href="http://eur-lex.europa.eu/en/index.htm">EUR-Lex</a></p></td>
+        <td colspan="2" valign="top" width="130"><p align="center"> From 1998 </p></td>
+      </tr>
+      <tr>
+        <td rowspan="2" valign="top" width="590"><p align="center"> U.N. Doc. </p></td>
+        <td valign="top" width="168"><p align="center"> United Nations Document </p></td>
+        <td width="132" colspan="2" align="center" valign="top"><p><a href="/library/resolver.cfm?handle=72">UN ODS (United Nations Official Documents System)</a></p></td>
+        <td valign="top" width="127"><p align="center"> From 1946 </p></td>
+      </tr>
+      <tr>
+        <td valign="top" width="168"><p align="center"> United Nations Bibliographic Information System (indexing to United Nations Official Documents System) </p></td>
+        <td colspan="2" valign="top" width="132"><p align="center"><a href="http://unbisnet.un.org/">UNBISnet</a></p></td>
+        <td valign="top" width="127"></td>
+      </tr>
+    </tbody>
+  </table>
+ 
+</blockquote>
+
+</div>
+
+	
+	</div> 
+
+
+	<!--stopindex-->
+
+		</td>
+		<td width="20"><img src="/library/images/spacer.gif" width="20" height="1" border="0" alt="" /></td>
+	</tr>
+	<tr valign="top">
+		<td width="20"><img src="/library/images/spacer.gif" width="20" height="25" border="0" alt="" /></td>
+		<td colspan="2"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+		<td width="20"><img src="/library/images/spacer.gif" width="20" height="25" border="0" alt="" /></td>
+	</tr>
+</table><!--stopindex-->
+<!--Middle part ends here-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="bottomtable0">
+	<tr valign="middle">
+		<td rowspan="2" width="1"><img src="/library/images/spacer.gif" width="1" height="151" border="0" alt="" /></td>
+		<td><table border="0" cellpadding="0" cellspacing="0" width="100%" class="bottomtable1">
+			<tr valign="middle">
+				<td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="21" border="0" alt="" /></td>
+				<td><pre><a href="http://www.law.northwestern.edu/library/">Library Home</a></pre></td><td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td><th><img src="/library/images/ltgrayspacer.gif" width="1" height="7" border="0" alt="" /></th><td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+				<td><pre><a href="http://www.law.northwestern.edu/">Law Home</a></pre></td><td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td><th><img src="/library/images/ltgrayspacer.gif" width="1" height="7" border="0" alt="" /></th><td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+				<td><pre><a href="http://www.law.northwestern.edu/library/resolver.cfm?handle=3008">Library maps</a></pre></td><td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td><th><img src="/library/images/ltgrayspacer.gif" width="1" height="7" border="0" alt="" /></th><td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+				<td><pre><a href="http://www.law.northwestern.edu/library/resolver.cfm?handle=3131">Other NU libraries</a></pre></td><td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td><th><img src="/library/images/ltgrayspacer.gif" width="1" height="7" border="0" alt="" /></th><td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+				<td><pre><a href="http://www.law.northwestern.edu/library/resolver.cfm?handle=3132">Journal Support</a></pre></td><td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td><th><img src="/library/images/ltgrayspacer.gif" width="1" height="7" border="0" alt="" /></th><td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+				<td><pre><a href="http://www.law.northwestern.edu/library/aboutus/contactus/">Contact Us</a></pre></td><td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td><th><img src="/library/images/ltgrayspacer.gif" width="1" height="7" border="0" alt="" /></th><td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+				<td><pre><a href="http://www.law.northwestern.edu/library/aboutus/suggestions/">Your Suggestions</a></pre></td><td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td><th><img src="/library/images/ltgrayspacer.gif" width="1" height="7" border="0" alt="" /></th><td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+				<td><pre><a href="http://www.law.northwestern.edu/library/resolver.cfm?handle=3133">StaffWeb</a></pre></td>
+				<td class="bottomtable1padding"><img src="/library/images/spacer.gif" width="1" height="21" border="0" alt="" /></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tr valign="top">
+					<td width="1" rowspan="2"><img src="/library/images/spacer.gif" width="1" height="127" border="0" alt="" /></td>
+					<td width="158" rowspan="2"><a href="http://www.northwestern.edu/"><img src="/library/images/nulogo.gif" width="134" height="80" border="0" alt="Northwestern University" class="nulogo" /></a></td>
+					<td width="580" class="bottomlinks"><a href="http://www.northwestern.edu/">Northwestern Home</a> | <a href="http://www.northwestern.edu/calendar/">Northwestern Calendar: Plan-It Purple</a><br />
+					<a href="http://www.northwestern.edu/webindex/">Northwestern Sites A-Z</a> | <a href="http://www.northwestern.edu/search/">Northwestern Search</a><br />
+					<a href="http://www.law.northwestern.edu/library/">Pritzker Legal Research Center</a>&nbsp;&nbsp;&nbsp;357 East Chicago Avenue, Chicago, IL 60611<br />
+					Phone (312) 503-8451; fax (312) 503-9230; e-mail <a href="mailto:lawlib@law.northwestern.edu">lawlib@law.northwestern.edu</a><br />
+					&copy; 2013 Northwestern University&nbsp;&nbsp;&nbsp;<a href="http://www.northwestern.edu/disclaimer.html">World Wide Web Disclaimer</a> and <a href="http://www.northwestern.edu/policy.html">Policy Statements</a><br /></td>
+					<td rowspan="2"><img src="/library/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+				</tr>
+				<tr valign="top">
+					<td width="580"><img src="/library/images/spacer.gif" width="580" height="1" border="0" alt="" /></td>
+				</tr>
+		</table></td>
+	</tr>
+</table>
+<map id ="logomap" name="logomap">
+	<area shape="rect" coords="20,0,300,40" href="http://www.law.northwestern.edu/library/" alt="Pritzker Legal Research Center" />
+</map>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6945676-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>

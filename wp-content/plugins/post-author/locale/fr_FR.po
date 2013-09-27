@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Author 1.0 for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-27 12:32+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: David Shabtai <david@glanum.com>\n"
+"Language-Team: Glanum <david@glanum.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\Users\\David\\Desktop\\WP Post Author\\post-author"
+"\\repository\\trunk\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: post_author.php:50
+msgid "Written by: "
+msgstr "Ecrit par : "
+
+#: post_author.php:146
+msgid ", our reviewer, on "
+msgstr ", notre rédacteur, le"
+
+#: post_author.php:181 post_author.php:217
+msgid "on "
+msgstr "le "
+
+#: post_author.php:199
+msgid "Last revised by: "
+msgstr "Mis à jour par : "
+
+#: post_author.php:418 post_author.php:419
+#, php-format
+msgid "More about %s"
+msgstr "En savoir plus sur %s"
+
+#: post_author.php:705
+msgid "Author"
+msgstr "Auteur"
+
+#: post_author.php:706
+msgid "Page Author"
+msgstr "Page Author"
+
+#: post_author.php:747
+msgid "Hide author for this article (<i>Post Author plugin</i>)"
+msgstr "Cacher l'auteur pour cet article (<i>plugin Post Author</i>)"
+
+#: post_author.php:894
+msgid "Settings saved."
+msgstr "Options sauvegardées."
+
+#: post_author.php:900
+msgid "Options for Post Author"
+msgstr "Options de Post Author"
+
+#: post_author.php:903
+msgid "Surrounding text"
+msgstr "Textes environnants"
+
+#: post_author.php:906
+msgid "Text to be displayed before the name of the author"
+msgstr "Texte à afficher avant le nom de l'auteur"
+
+#: post_author.php:910
+msgid "Text to be displayed after the name"
+msgstr "Texte à afficher après le nom"
+
+#: post_author.php:916
+msgid "Add first publication date"
+msgstr "Ajouter la date de première publication"
+
+#: post_author.php:920
+msgid "Text to be displayed before the initial publication date"
+msgstr "Texte à afficher avant la date de publication initiale"
+
+#: post_author.php:924
+msgid "Text to be displayed after the date"
+msgstr "Texte à afficher après la date"
+
+#: post_author.php:927
+msgid "Post revision"
+msgstr "Modification d'article"
+
+#: post_author.php:935
+msgid ""
+"Add revision author (only if update date is different from publication date)"
+msgstr ""
+"Ajouter l'auteur de la dernière révision (seulement si la date de révision "
+"est différente de la date de publication)"
+
+#: post_author.php:939
+msgid "Text to be displayed before the last revising author"
+msgstr "Texte à afficher avant le dernier auteur de la révision"
+
+#: post_author.php:943
+msgid "Text to be displayed after the last revising author"
+msgstr "Texte à afficher après le dernier auteur de la révision"
+
+#: post_author.php:947
+msgid "Text to be displayed instead, if followed by date revision"
+msgstr "Texte à afficher à la place, si suivi par une date de révision"
+
+#: post_author.php:955
+msgid ""
+"Add last revision date (only if update date is different from publication "
+"date)"
+msgstr ""
+"Ajouter la date de la dernière révision (seulement si la date de révision "
+"est différente de la date de publication)"
+
+#: post_author.php:959
+msgid "Text to be displayed before the last revision date"
+msgstr "Texte à afficher avant la date de dernière révision"
+
+#: post_author.php:963
+msgid "Text to be displayed after the last revision date"
+msgstr "Texte à afficher après la date de dernière révision"
+
+#: post_author.php:970
+msgid "Display condition"
+msgstr "Condition d'affichage"
+
+#: post_author.php:976
+msgid "Add author to Posts"
+msgstr "Ajouter l'auteur aux Articles"
+
+#: post_author.php:980 post_author.php:1007
+msgid "Place author box before content"
+msgstr "Insérer la boite Auteur avant le contenu"
+
+#: post_author.php:984 post_author.php:1011 post_author.php:1037
+msgid "Add avatar to author box"
+msgstr "Ajouter l'avatar dans la boite Auteur"
+
+#: post_author.php:988 post_author.php:1015 post_author.php:1041
+msgid "Avatar size"
+msgstr "Taille de l'avatar"
+
+#: post_author.php:996 post_author.php:1023 post_author.php:1049
+msgid "Avatar float"
+msgstr "Alignement de l'avatar"
+
+#: post_author.php:1003
+msgid "Add author to Pages"
+msgstr "Ajouter l'auteur aux Pages"
+
+#: post_author.php:1029
+msgid "Add author to Categories"
+msgstr "Ajouter l'auteur aux Catégories"
+
+#: post_author.php:1033
+msgid "Place author box before excerpt"
+msgstr "Insérer la boite Auteur avant l'extrait"
+
+#: post_author.php:1053
+msgid "Hide author box on home category"
+msgstr "Cacher la boite Auteur sur la catégorie de l'accueil"
+
+#: post_author.php:1059
+msgid "Options"
+msgstr "Options"
+
+#: post_author.php:1062
+msgid "Add link to author page"
+msgstr "Ajouter un lien vers la page de l'auteur"
+
+#: post_author.php:1066
+msgid "Use author website URL in user profile instead"
+msgstr "Utiliser l'URL du site dans le profil de l'auteur à la place"
+
+#: post_author.php:1070
+msgid ""
+"Specific link target - default (<i>blank</i>) links to author/username page"
+msgstr ""
+"Lien spécifique - défaut (<i>vide</i>) renvoie vers la page auteur/nomdauteur"
+
+#: post_author.php:1080
+msgid "Quick help"
+msgstr "Aide rapide"
+
+#: post_author.php:1081
+msgid "Multilingual"
+msgstr "Multilingue"
+
+#: post_author.php:1082
+msgid ""
+"Integrates great with qTranslate for multilingual or international blogs, "
+"using <a href=\"http://www.qianqin.de/qtranslate/forum/viewtopic.php?"
+"f=3&t=3&p=15#p15\">Quicktags</a>"
+msgstr ""
+"S'intègre parfaitement avec qTranslate pour un blog international ou "
+"multilingue, en utilisant les <a href=\"http://www.qianqin.de/qtranslate/"
+"forum/viewtopic.php?f=3&t=3&p=15#p15\">Quicktags</a>"
+
+#: post_author.php:1083
+msgid "Example : <i>&#91;:en&#93;Written by &#91;:fr&#93;Ecrit par</i>."
+msgstr "Exemple : <i>&#91;:en&#93;Written by &#91;:fr&#93;Ecrit par</i>."
+
+#: post_author.php:1085
+msgid "Hide it on specific post or page?"
+msgstr "Cacher sur une page ou un article particulier ?"
+
+#: post_author.php:1086
+msgid ""
+"You can specifically hide the post author plugin on specific pages or posts. "
+"Simply go to the edit page and check the &quot;hide author for this "
+"article&quot; box, in the author box."
+msgstr ""
+"Vous pouvez cacher le plugin post author sur des pages ou articles "
+"spécifiques. Allez simplement sur la page d'édition et cochez la case &quot;"
+"cacher l'auteur pour cet article&quot;, dans le cadre de l'auteur."
+
+#: post_author.php:1088
+msgid "Style it"
+msgstr "Stylez-le"
+
+#: post_author.php:1089
+msgid ""
+"Text is CSS-ready, displayed in nested div's and span's: it's up to you to "
+"do the styling to your taste to float text left, right, add bold, color, "
+"rulers, borders, images..."
+msgstr ""
+"Le texte est CSS-ready, affiché dans des div et span imbriqués : c'est à "
+"vous de le styler à votre goût pour du flotter le texte à gauche, à droite, "
+"ajouter du gras, de la couleur, des lignes, des bordures, des images..."
+
+#: post_author.php:1091
+msgid "Specific link on name"
+msgstr "Lien spécifique sur le nom"
+
+#: post_author.php:1092
+msgid ""
+"You can specify an absolute URL<br/>(e.g.: http://www.my.com/profile)<br/> "
+"<br/>or a relative, if you start with a slash<br/>(e.g.: /myauthorpage)."
+msgstr ""
+"Vous pouvez spécifier un lien URL absolue <br/>(ex.: http://www.my.com/"
+"profile)<br/> <br/>ou bien relatif, si vous commencez avec un slash<br/>"
+"(ex.: /myauthorpage)."
+
+#~ msgid "Include last revision date"
+#~ msgstr "Inclure la date de révision"
+
+#~ msgid "Add author to the bottom of Pages articles"
+#~ msgstr "Ajouter l'auteur à la fin des posts type Page"

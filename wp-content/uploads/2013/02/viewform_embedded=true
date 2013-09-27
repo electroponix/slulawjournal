@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head><link rel="shortcut icon" href="https://ssl.gstatic.com/docs/spreadsheets/forms/favicon_jfk2.png" type="image/x-icon">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=10; chrome=1;">
+<meta name="fragment" content="!">
+<base target="_blank">
+
+<link href='/static/forms/client/css/784352390-formview_embedded_ltr.css' type='text/css' rel='stylesheet'>
+<style type="text/css">
+        
+      </style>
+<style type="text/css">
+      
+    </style></head>
+<body class="ss-base-body" dir="ltr">
+
+<div class="ss-form-container"><div class="ss-top-of-page">
+
+
+<div class="ss-form-heading"><h1 class="ss-form-title" dir="ltr">Stay Connected</h1>
+<p></p>
+<div class="ss-form-desc ss-no-ignore-whitespace">The Saint Louis University Law Journal would like to keep in touch with all of its alumni. If you would like to reconnect with us, please fill out the form below. You can also contact us via mail, email, or phone.</div>
+
+<hr class="ss-email-break" style="display:none;">
+<div class="ss-required-asterisk">* Required</div></div></div>
+<div class="ss-form"><form action="https://docs.google.com/forms/d/1DhQLsBY6uEh_fpREYi4Z5S2VDmdP2NEAgw8d9lSZ8pU/formResponse?embedded=true" method="POST" id="ss-form" target="_self" onsubmit="">
+<div class="errorbox-good">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_636497463"><div class="ss-q-title">First Name
+<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.636497463" value="" class="ss-q-short" id="entry_636497463" dir="auto" aria-required="true">
+</div></div></div> <div class="errorbox-good">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_652059049"><div class="ss-q-title">Last Name
+<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.652059049" value="" class="ss-q-short" id="entry_652059049" dir="auto" aria-required="true">
+</div></div></div> <div class="errorbox-good">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_242063217"><div class="ss-q-title">Email
+<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+<span class="ss-required-asterisk">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.242063217" value="" class="ss-q-short" id="entry_242063217" dir="auto" aria-required="true">
+</div></div></div> <div class="errorbox-good">
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_1150539315"><div class="ss-q-title">Membership Year/Volume on the Journal
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.1150539315" value="" class="ss-q-short" id="entry_1150539315" dir="auto">
+</div></div></div> <div class="errorbox-good">
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_1095764847"><div class="ss-q-title">Graduation Year
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.1095764847" value="" class="ss-q-short" id="entry_1095764847" dir="auto">
+</div></div></div> <div class="errorbox-good">
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_2039388384"><div class="ss-q-title">Employer
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.2039388384" value="" class="ss-q-short" id="entry_2039388384" dir="auto">
+</div></div></div> <div class="errorbox-good">
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_2126587713"><div class="ss-q-title">Job Title
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.2126587713" value="" class="ss-q-short" id="entry_2126587713" dir="auto">
+</div></div></div> <div class="errorbox-good">
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_13948132"><div class="ss-q-title">Have you clerked?
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<ul class="ss-choices"><li class="ss-choice-item"><label><input type="radio" name="entry.1714401427" value="Yes" id="group_1714401427_1" class="ss-q-radio" aria-label="Yes">
+<span class="ss-choice-label">Yes</span></label></li> <li class="ss-choice-item"><label><input type="radio" name="entry.1714401427" value="No" id="group_1714401427_2" class="ss-q-radio" aria-label="No">
+<span class="ss-choice-label">No</span></label></li></ul></div></div></div> <div class="errorbox-good">
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_841156282"><div class="ss-q-title">Would you like to subscribe to the Journal&#39;s Alumni Newsletter?
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<ul class="ss-choices"><li class="ss-choice-item"><label><input type="radio" name="entry.1308512002" value="Yes" id="group_1308512002_1" class="ss-q-radio" aria-label="Yes">
+<span class="ss-choice-label">Yes</span></label></li> <li class="ss-choice-item"><label><input type="radio" name="entry.1308512002" value="No" id="group_1308512002_2" class="ss-q-radio" aria-label="No">
+<span class="ss-choice-label">No</span></label></li></ul></div></div></div> <div class="errorbox-good">
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_24066156"><div class="ss-q-title">Would you like to receive email updates from the Journal?
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<ul class="ss-choices"><li class="ss-choice-item"><label><input type="radio" name="entry.433318690" value="Yes" id="group_433318690_1" class="ss-q-radio" aria-label="Yes">
+<span class="ss-choice-label">Yes</span></label></li> <li class="ss-choice-item"><label><input type="radio" name="entry.433318690" value="No" id="group_433318690_2" class="ss-q-radio" aria-label="No">
+<span class="ss-choice-label">No</span></label></li></ul></div></div></div> <div class="errorbox-good">
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_595137347"><div class="ss-q-title">Are you available for contact by current members of the Journal?
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<ul class="ss-choices"><li class="ss-choice-item"><label><input type="radio" name="entry.1259881462" value="Yes" id="group_1259881462_1" class="ss-q-radio" aria-label="Yes">
+<span class="ss-choice-label">Yes</span></label></li> <li class="ss-choice-item"><label><input type="radio" name="entry.1259881462" value="No" id="group_1259881462_2" class="ss-q-radio" aria-label="No">
+<span class="ss-choice-label">No</span></label></li></ul></div></div></div>
+<input type="hidden" name="draftResponse" value="[]
+">
+<input type="hidden" name="pageHistory" value="0">
+
+
+<div class="ss-item ss-navigate"><div class="ss-form-entry">
+<input type="submit" name="continue" value="Continue &raquo;"></div></div></form></div>
+<div class="ss-footer"><div class="ss-attribution"></div>
+<div class="ss-legal"><div class="disclaimer-separator"></div>
+<div class="disclaimer"><div class="powered-by-logo"><span class="powered-by-text">Powered by</span>
+<a class="ss-logo-link" href="http://docs.google.com"><img class="ss-logo" src="https://ssl.gstatic.com/docs/forms/drive_logo_small.png" alt="Google Drive"></a></div>
+<div class="ss-terms"><span class="disclaimer-msg">This content is neither created nor endorsed by Google.</span>
+<br>
+<a href="https://docs.google.com/forms/d/1DhQLsBY6uEh_fpREYi4Z5S2VDmdP2NEAgw8d9lSZ8pU/reportabuse?source=https://docs.google.com/forms/d/1DhQLsBY6uEh_fpREYi4Z5S2VDmdP2NEAgw8d9lSZ8pU/viewform?embedded%3Dtrue">Report Abuse</a>
+-
+<a href="http://www.google.com/accounts/TOS">Terms of Service</a>
+-
+<a href="http://www.google.com/google-d-s/terms.html">Additional Terms</a></div></div></div></div>
+</div>
+
+<script type='text/javascript' src='/static/forms/client/js/2970587661-formviewer_prd.js'></script>
+<script type="text/javascript">_initFormViewer();</script></body></html>

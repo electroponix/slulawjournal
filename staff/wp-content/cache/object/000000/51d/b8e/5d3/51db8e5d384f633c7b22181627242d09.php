@@ -1,0 +1,1 @@
+7WQ<?php exit; ?>a:1:{s:7:"content";a:1:{s:17:"recent-comments-2";s:152:"<aside id="recent-comments-2" class="widget clearfix widget_recent_comments"><h1 class="title">Recent Comments</h1><ul id="recentcomments"></ul></aside>";}}

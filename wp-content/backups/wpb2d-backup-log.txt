@@ -1,0 +1,117 @@
+21:36:36: Backup started on Wednesday August 21, 2013.
+21:36:36: Your time limit is 120 seconds and your memory limit is 256M
+22:41:36: Creating SQL backup of your WordPress core.
+22:41:42: Creating SQL backup of your WordPress plugins.
+22:43:31: Approximately 1% complete.
+22:43:37: Approximately 2% complete.
+22:43:43: Approximately 3% complete.
+22:43:49: Approximately 4% complete.
+22:43:55: Approximately 6% complete.
+22:44:01: Approximately 7% complete.
+22:44:07: Approximately 8% complete.
+22:44:13: Approximately 8% complete.
+22:44:19: Approximately 9% complete.
+22:44:25: Approximately 9% complete.
+22:44:31: Approximately 10% complete.
+22:44:37: Approximately 11% complete.
+22:44:43: Approximately 11% complete.
+22:44:49: Approximately 11% complete.
+22:44:55: Approximately 11% complete.
+22:45:01: Approximately 12% complete.
+22:45:07: Approximately 12% complete.
+22:45:13: Approximately 12% complete.
+22:45:19: Approximately 12% complete.
+22:45:25: Approximately 13% complete.
+22:45:31: Approximately 13% complete.
+22:45:37: Approximately 13% complete.
+22:45:43: Approximately 13% complete.
+22:45:49: Approximately 14% complete.
+22:45:55: Approximately 14% complete.
+22:46:01: Approximately 14% complete.
+22:46:07: Approximately 15% complete.
+22:46:13: Approximately 15% complete.
+22:46:19: Approximately 16% complete.
+22:46:26: Approximately 17% complete.
+22:46:32: Approximately 18% complete.
+22:46:34: Uploading large file 'slulawjournal-backup-core.sql.27e3359225b3e61585ac93cdba55010a25a685e4-wpb2d-secret' (11MB) in chunks
+22:46:36: Uploaded 4MB of 11MB
+22:46:39: Uploaded 8MB of 11MB
+22:46:41: Uploaded 11MB of 11MB
+22:46:42: Approximately 18% complete.
+Uploaded Files:[{"file":"slulawjournal-backup-core.sql","mtime":1377142902}]
+22:46:48: Approximately 20% complete.
+Uploaded Files:[{"file":"slulawjournal-backup-plugins.sql","mtime":1377143005}]
+22:46:56: Approximately 25% complete.
+22:47:02: Approximately 26% complete.
+22:47:08: Approximately 26% complete.
+22:47:14: Approximately 27% complete.
+22:47:20: Approximately 28% complete.
+22:47:29: Approximately 30% complete.
+22:47:35: Approximately 30% complete.
+22:47:41: Approximately 31% complete.
+22:47:48: Approximately 32% complete.
+22:47:54: Approximately 32% complete.
+22:48:00: Approximately 32% complete.
+22:48:07: Approximately 33% complete.
+22:48:13: Approximately 34% complete.
+22:48:20: Approximately 35% complete.
+22:48:28: Approximately 38% complete.
+22:48:35: Approximately 39% complete.
+22:48:43: Approximately 42% complete.
+22:48:51: Approximately 44% complete.
+22:48:58: Approximately 45% complete.
+22:49:05: Approximately 46% complete.
+22:49:12: Approximately 47% complete.
+22:49:19: Approximately 48% complete.
+22:49:26: Approximately 49% complete.
+22:49:32: Approximately 49% complete.
+22:49:39: Approximately 51% complete.
+22:49:46: Approximately 52% complete.
+22:49:52: Approximately 52% complete.
+22:49:58: Approximately 52% complete.
+22:50:04: Approximately 52% complete.
+22:50:10: Approximately 52% complete.
+22:50:16: Approximately 53% complete.
+22:50:22: Approximately 53% complete.
+22:50:28: Approximately 53% complete.
+22:50:34: Approximately 53% complete.
+22:50:40: Approximately 54% complete.
+22:50:46: Approximately 54% complete.
+22:50:53: Approximately 55% complete.
+22:50:59: Approximately 55% complete.
+22:51:06: Approximately 56% complete.
+22:51:13: Approximately 56% complete.
+22:51:19: Approximately 56% complete.
+22:51:25: Approximately 57% complete.
+22:51:31: Approximately 57% complete.
+22:51:37: Approximately 57% complete.
+22:51:43: Approximately 58% complete.
+22:51:53: Approximately 59% complete.
+22:52:00: Approximately 60% complete.
+22:52:07: Approximately 60% complete.
+22:52:14: Approximately 61% complete.
+22:52:21: Approximately 61% complete.
+22:52:28: Approximately 61% complete.
+22:52:36: Approximately 62% complete.
+22:52:44: Approximately 63% complete.
+22:52:50: Approximately 63% complete.
+22:52:57: Approximately 63% complete.
+22:53:04: Approximately 64% complete.
+22:53:12: Approximately 64% complete.
+22:53:19: Approximately 65% complete.
+22:53:27: Approximately 65% complete.
+22:53:35: Approximately 66% complete.
+22:53:43: Approximately 66% complete.
+22:53:50: Approximately 67% complete.
+22:53:58: Approximately 67% complete.
+22:54:05: Approximately 67% complete.
+22:54:13: Approximately 68% complete.
+22:54:21: Approximately 69% complete.
+22:54:28: Approximately 69% complete.
+22:54:35: Approximately 69% complete.
+22:54:42: Approximately 69% complete.
+22:54:51: Approximately 70% complete.
+22:55:03: Approximately 72% complete.
+22:55:05: Backup complete.
+22:55:05: A total of 17104 files were processed.
+22:55:05: A total of 16MB of memory was used to complete this backup.

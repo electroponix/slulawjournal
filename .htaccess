@@ -1,0 +1,10 @@
+
+# BEGIN Better WP Security
+deny 180.183.161.96;
+if ($http_cookie !~* "wordpress_logged_in_" ) {
+set $susquery 2$susquery;
+set $rule_2 1;
+set $rule_3 1;
+}
+if ($args !~ "^loggedout=true") { set $susquery 3$susquery; }
+# END Better WP Security

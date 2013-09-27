@@ -1,0 +1,1 @@
+¼DWQ<?php exit; ?>a:1:{s:7:"content";a:4:{i:0;s:8:"page.php";i:1;s:19:"content-default.php";i:2;s:16:"type-article.php";i:3;s:15:"article-pdf.php";}}
